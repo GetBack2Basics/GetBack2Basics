@@ -21,7 +21,7 @@ Currently, I'm focused on modernizing GIS workflows through AI integration and h
 ### 🚀 Featured Projects
 
 #### [📍 TripCrafter](https://github.com/GetBack2Basics/TripCrafter) [Personal experimentation project]
-An AI-powered itinerary generator focused on the Tasmanian landscape. 
+An AI-powered itinerary generator focused on utilising multiple inputs in planning. 
 - **Tech:** React, Python, Flask, Mapbox.
 - **Key Feature:** Integrates Large Language Models (LLMs) with spatial constraints to create optimized travel routes.
 
