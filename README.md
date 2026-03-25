@@ -37,7 +37,7 @@ A collection of prototypes, including QGIS Web Client 2 (QWC2) configurations an
 ### 📈 What I'm working on
 - 🗺️ Deep-diving into **QWC2** for enterprise-grade open-source web mapping.
 - 🤖 Exploring the intersection of **Generative AI** and Vector Tile hosting.
-- 🏗️ Building reusable Python modules for **ETL automation** in local government and utility sectors.
+- 🏗️ Building reusable Python modules for **ETL automation** in government and utility sectors.
 
 ---
 
