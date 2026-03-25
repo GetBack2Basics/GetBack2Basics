@@ -42,7 +42,7 @@ A collection of prototypes, including QGIS Web Client 2 (QWC2) configurations an
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/george-c-gis](https://www.linkedin.com/in/george-c-gis-30919141/) 
+- **LinkedIn:** www.linkedin.com/in/coreagc
 - **Location:** Newcastle, Australia 🇦🇺
 
 ---
