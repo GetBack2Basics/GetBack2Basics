@@ -20,48 +20,38 @@ Currently, I'm focused on modernizing GIS workflows through AI integration and h
 
 ### 🚀 Featured Projects
 
-#### [📍 TripCrafter](https://github.com/GetBack2Basics/TripCrafter) [Personal experimentation project]
-A modern travel itinerary planner with AI-assisted trip import, interactive mapping, and itinerary management.
-- **Tech:** JavaScript, mapping APIs, AI integrations.
-- **Key Feature:** Combines travel planning with location-aware workflows and map-driven UX.
-
-#### [🖼️ PixelCraft](https://github.com/GetBack2Basics/PixelCraft)
-A high-performance Python toolkit for spatial raster processing and image manipulation.
-- **Goal:** Simplify complex imagery workflows including coordinate-aware cropping, multi-spectral analysis, and automated cleaning.
-
-#### [🗺️ craft_layout](https://github.com/GetBack2Basics/craft_layout)
-A Python tool to optimize ArcGIS Pro map series by automatically determining the best-fit orientation and scale for each feature.
-- **Focus:** Cartographic automation, geometric analysis, and professional batch exports.
+#### [🧾 MapReportCrafter](https://github.com/GetBack2Basics/MapReportCrafter)
+A project focused on generating customised map outputs and report-ready deliverables.
 
 #### [📝 CoverLetter-Crafter](https://github.com/GetBack2Basics/CoverLetter-Crafter)
-A TypeScript app for generating customised cover letters for job applications.
-- **Focus:** Practical AI-assisted writing workflows for professional use.
-
-#### [🧾 MapReportCrafter](https://github.com/GetBack2Basics/MapReportCrafter)
-A report-oriented mapping project for generating customised map outputs and supporting deliverables.
-- **Focus:** Automated mapping and report creation workflows.
+Create customised cover letters for job applications.
 
 #### [🧪 GIS Sandbox](https://github.com/GetBack2Basics/sandbox)
-A collection of prototypes, experiments, and quick GIS script development.
-- **Focus:** Testing ideas, workflows, and spatial algorithms.
+A collection of prototypes, including QGIS Web Client 2 (QWC2) configurations and experimental spatial algorithms.
 
----
+#### [🖼️ PixelCraft](https://github.com/GetBack2Basics/PixelCraft)
+A specialized toolkit for raster processing and image manipulation within GIS workflows.
+- **Goal:** Simplifying the "heavy lifting" of spatial imagery via Python.
 
-### 📚 Repository Overview
+#### [🗺️ craft_layout](https://github.com/GetBack2Basics/craft_layout)
+Optimize ArcGIS Pro map series by programmatically determining the best-fit orientation and scale for every feature.
 
-- [TripCrafter](https://github.com/GetBack2Basics/TripCrafter) — AI-powered travel itinerary planning and map-based trip workflows.
-- [PixelCraft](https://github.com/GetBack2Basics/PixelCraft) — Spatial raster processing and imagery toolkit in Python.
-- [craft_layout](https://github.com/GetBack2Basics/craft_layout) — ArcGIS Pro layout and map series automation.
-- [CoverLetter-Crafter](https://github.com/GetBack2Basics/CoverLetter-Crafter) — Custom cover letter generation for job applications.
-- [MapReportCrafter](https://github.com/GetBack2Basics/MapReportCrafter) — Automated map/report creation workflows.
-- [sandbox](https://github.com/GetBack2Basics/sandbox) — General-purpose GIS sandbox and experimentation space.
-- [g3w-suite-docker](https://github.com/GetBack2Basics/g3w-suite-docker) *(fork)* — Forked Docker-based deployment repo for G3W Suite.
+#### [📍 TripCrafter](https://github.com/GetBack2Basics/TripCrafter) [Personal experimentation project]
+An AI-powered itinerary generator focused on utilising multiple inputs in planning.
+- **Tech:** React, Python, Flask, Mapbox.
+- **Key Feature:** Integrates Large Language Models (LLMs) with spatial constraints to create optimized travel routes.
+
+#### [⚙️ g3w-suite-docker](https://github.com/GetBack2Basics/g3w-suite-docker) [Fork]
+A forked Docker-based deployment repository for G3W Suite.
+
+#### [👤 GetBack2Basics](https://github.com/GetBack2Basics/GetBack2Basics)
+Configuration files for my GitHub profile.
 
 ---
 
 ### 📈 What I'm working on
 - 🗺️ Deep-diving into **QWC2** for enterprise-grade open-source web mapping.
-- 🤖 Exploring the intersection of **Generative AI** and vector tile hosting.
+- 🤖 Exploring the intersection of **Generative AI** and Vector Tile hosting.
 - 🏗️ Building reusable Python modules for **ETL automation** in government and utility sectors.
 
 ---
