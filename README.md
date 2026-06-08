@@ -41,6 +41,11 @@ An AI-powered itinerary generator focused on utilising multiple inputs in planni
 - **Tech:** React, Python, Flask, Mapbox.
 - **Key Feature:** Integrates Large Language Models (LLMs) with spatial constraints to create optimized travel routes.
 
+#### JobCrafter AI [Private Repository]
+A premium full-suite professional campaign workspace for senior role applications and interview preparation.
+- **Focus:** Job description analysis, tailored document generation, capability task workspaces, and STAR interview practice.
+- **Tech:** React 19, TypeScript, Vite, Tailwind CSS, Motion, Gemini via `@google/genai`.
+
 #### [⚙️ g3w-suite-docker](https://github.com/GetBack2Basics/g3w-suite-docker) [Fork]
 A forked Docker-based deployment repository for G3W Suite.
 
