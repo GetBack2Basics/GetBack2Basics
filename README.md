@@ -45,6 +45,7 @@ An AI-powered itinerary generator focused on utilising multiple inputs in planni
 A premium full-suite professional campaign workspace for senior role applications and interview preparation.
 - **Focus:** Job description analysis, tailored document generation, capability task workspaces, and STAR interview practice.
 - **Tech:** React 19, TypeScript, Vite, Tailwind CSS, Motion, Gemini via `@google/genai`.
+- See https://github.com/GetBack2Basics/GetBack2Basics/blob/38bb5e1d67557bf997f5a21f140aac38e31c01e0/JobHuntCrafter.md
 
 #### [⚙️ g3w-suite-docker](https://github.com/GetBack2Basics/g3w-suite-docker) [Fork]
 A forked Docker-based deployment repository for G3W Suite.
