@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George | Senior GIS Developer & Spatial Analyst
 
-I am a geospatial professional with over 15 years of experience bridging the gap between complex spatial data and actionable business insights. My expertise ranges from building full-stack web mapping solutions to designing automation pipelines for enterprise GIS.
+I am a geospatial professional with over 15 years of experience bridging the gap between complex spatial data and actionable business insights. My expertise ranges from building full-stack web mapping applications to designing automated geoprocessing pipelines and AI-assisted content systems.
 
 Currently, I'm focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance web interfaces.
 
@@ -10,25 +10,43 @@ Currently, I'm focused on modernizing GIS workflows through AI integration, reus
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (ArcPy, PyQGIS, GeoPandas), JavaScript/TypeScript (React, Node.js), SQL (PostgreSQL/PostGIS) |
+| **Languages** | Python (ArcPy, PyQGIS, GeoPandas), TypeScript/JavaScript (React, Node.js), SQL (PostgreSQL/PostGIS) |
+| **Frontend & UI** | React 19, Vite, Tailwind CSS, Motion, Interactive dashboard design |
 | **Geospatial Ecosystem** | ArcGIS Pro/Enterprise, QGIS, FME, SDE, GeoServer |
 | **Web Mapping** | Mapbox GL JS, Leaflet, OpenLayers, QWC2 |
-| **Infrastructure** | Docker, Git/GitHub Actions, REST APIs, AWS |
-| **Data Science** | Spatial Statistics, Image Processing (PixelCraft), Network Analysis |
+| **Infrastructure & DevOps** | Docker, Git/GitHub Actions, REST APIs, AWS |
+| **AI & Data** | Gemini (`@google/genai`), Spatial Statistics, Raster/Image Processing |
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (ordered by recent activity)
 
-#### [🧾 MapReportCrafter](https://github.com/GetBack2Basics/MapReportCrafter)
-A project focused on generating customised map outputs and report-ready deliverables.
-- **Focus:** Producing polished mapping outputs and supporting report workflows.
-- **Current direction:** Expanded into a larger deliverable-generation workspace with substantial active development.
+#### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
+A newer Python-based project focused on public transport planning and workflow experimentation.
+- **Focus:** Exploring transport-oriented tooling and automation patterns.
+- **Current status:** Newest spatial workflow project and currently prioritised.
+
+#### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
+A lightweight repository of cheat sheets to get up and running quickly.
+- **Focus:** Fast-reference notes, setup reminders, and practical snippets.
+
+#### [🖼️ imagery_form_crafter](https://github.com/GetBack2Basics/imagery_form_crafter)
+A TypeScript-based project for crafting imagery-related forms and structured workflows.
+- **Focus:** Building cleaner interfaces around imagery collection or request processes.
+
+#### [📸 Travel_Photo_Socials_Crafter](https://github.com/GetBack2Basics/Travel_Photo_Socials_Crafter)
+A TypeScript project for turning travel photos into social media storytelling assets.
+- **Focus:** Crafting travel stories and post-ready social content from photo sets.
 
 #### [📝 CoverLetter-Crafter](https://github.com/GetBack2Basics/CoverLetter-Crafter)
 Create customised cover letters for job applications.
 - **Focus:** Tailoring application content for specific roles and professional narratives.
 - **Current direction:** Growing into a TypeScript-based application workspace for structured job-application content generation.
+
+#### [🧾 MapReportCrafter](https://github.com/GetBack2Basics/MapReportCrafter)
+A project focused on generating customised map outputs and report-ready deliverables.
+- **Focus:** Producing polished mapping outputs and supporting report workflows.
+- **Current direction:** Expanded into a larger deliverable-generation workspace with substantial active development.
 
 #### [🧪 GIS Sandbox](https://github.com/GetBack2Basics/sandbox)
 A collection of prototypes, including QGIS Web Client 2 (QWC2) configurations and experimental spatial algorithms.
@@ -48,22 +66,6 @@ An AI-powered itinerary generator focused on utilising multiple inputs in planni
 - **Tech:** JavaScript, Python, Flask, Mapbox.
 - **Key Features:** Dynamic discover pane, local imagery, AI-powered trip import, interactive maps, and itinerary management.
 
-#### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
-A newer Python-based project focused on public transport planning and workflow experimentation.
-- **Focus:** Exploring transport-oriented tooling and automation patterns.
-
-#### [🖼️ imagery_form_crafter](https://github.com/GetBack2Basics/imagery_form_crafter)
-A TypeScript-based project for crafting imagery-related forms and structured workflows.
-- **Focus:** Building cleaner interfaces around imagery collection or request processes.
-
-#### [📸 Travel_Photo_Socials_Crafter](https://github.com/GetBack2Basics/Travel_Photo_Socials_Crafter)
-A TypeScript project for turning travel photos into social media storytelling assets.
-- **Focus:** Crafting travel stories and post-ready social content from photo sets.
-
-#### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
-A lightweight repository of cheat sheets to get up and running quickly.
-- **Focus:** Fast-reference notes, setup reminders, and practical snippets.
-
 #### JobCrafter AI [Private Repository]
 A premium full-suite professional campaign workspace for senior role applications and interview preparation.
 - **Focus:** Job description analysis, tailored document generation, capability task workspaces, and STAR interview practice.
@@ -79,9 +81,10 @@ Configuration files for my GitHub profile.
 ---
 
 ### 📈 What I'm working on
-- 🗺️ Deep-diving into **QWC2** for enterprise-grade open-source web mapping.
-- 🤖 Exploring the intersection of **Generative AI** and spatial workflow tooling.
-- 🏗️ Building reusable Python and TypeScript modules for **ETL automation**, content generation, and GIS-adjacent workflow apps.
+- 🚌 Building out **publictransport-crafter** as a spatial workflow engine for transport-focused analysis and automation.
+- 🧠 Expanding AI-assisted tooling using **React 19 + TypeScript + Gemini** for tailored document and workflow generation.
+- 🗺️ Advancing modern GIS delivery patterns with **QWC2, Mapbox, and open-source web mapping stacks**.
+- ⚙️ Developing reusable **Python + TypeScript** modules for ETL, spatial analysis, imagery forms, and content operations.
 
 ---
 
