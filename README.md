@@ -22,7 +22,7 @@ Currently, I'm focused on modernizing GIS workflows through AI integration, reus
 ### 🚀 Featured Projects (ordered by recent activity)
 
 #### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
-A newer Python-based project focused on public transport planning and workflow experimentation.
+A newer Wherobots and Sedona-based project focused on massive data sandboxing public transport planning and workflow experimentation as a personal peeve.
 - **Focus:** Exploring transport-oriented tooling and automation patterns.
 - **Current status:** Newest spatial workflow project and currently prioritised.
 
