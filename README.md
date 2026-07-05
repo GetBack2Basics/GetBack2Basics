@@ -15,16 +15,16 @@ Currently, I'm focused on modernizing GIS workflows through AI integration, reus
 | **Geospatial Ecosystem** | ArcGIS Pro/Enterprise, QGIS, FME, SDE, GeoServer |
 | **Web Mapping** | Mapbox GL JS, Leaflet, OpenLayers, QWC2 |
 | **Infrastructure & DevOps** | Docker, Git/GitHub Actions, REST APIs, AWS |
-| **AI & Data** | Gemini (`@google/genai`), Spatial Statistics, Raster/Image Processing |
+| **AI & Data** | Gemini, OpenRouter, Nous, Hermes, Spatial Statistics, Raster/Image Processing |
 
 ---
 
 ### 🚀 Featured Projects (ordered by recent activity)
 
 #### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
-A newer Wherobots and Sedona-based project focused on massive data sandboxing public transport planning and workflow experimentation as a personal peeve.
+Utilizing massive data tools Wherobots and Sedona-based - focused on massive data sandboxing public transport planning and workflow experimentation as a personal peeve.
 - **Focus:** Exploring transport-oriented tooling and automation patterns.
-- **Current status:** Newest spatial workflow project and currently prioritised.
+- **Current status:** In Testing.
 
 #### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
 A lightweight repository of cheat sheets to get up and running quickly.
@@ -39,9 +39,9 @@ A TypeScript project for turning travel photos into social media storytelling as
 - **Focus:** Crafting travel stories and post-ready social content from photo sets.
 
 #### [📝 CoverLetter-Crafter](https://github.com/GetBack2Basics/CoverLetter-Crafter)
-Create customised cover letters for job applications.
+Create customised cover letters for job applications. This has since morphed into an MVP Job Hunt Crafter
 - **Focus:** Tailoring application content for specific roles and professional narratives.
-- **Current direction:** Growing into a TypeScript-based application workspace for structured job-application content generation.
+- **Current direction:** Complete - transitioning to closed MVP http://JobHuntCrafter.getback2basics.net
 
 #### [🧾 MapReportCrafter](https://github.com/GetBack2Basics/MapReportCrafter)
 A project focused on generating customised map outputs and report-ready deliverables.
@@ -61,10 +61,11 @@ A high-performance Python toolkit for spatial raster processing and image manipu
 Optimize ArcGIS Pro map series by programmatically determining the best-fit orientation and scale for every feature.
 - **Functions:** Uses geometric analysis to maximize detail, automate batch exports, add dynamic background layering, and selectively switch layouts for stronger cartographic output.
 
-#### [📍 TripCrafter](https://github.com/GetBack2Basics/TripCrafter) [Personal experimentation project]
+#### [📍 TripCrafter](https://github.com/GetBack2Basics/TripCrafter)
 An AI-powered itinerary generator focused on utilising multiple inputs in planning.
 - **Tech:** JavaScript, Python, Flask, Mapbox.
 - **Key Features:** Dynamic discover pane, local imagery, AI-powered trip import, interactive maps, and itinerary management.
+- tripcrafter.netlify.com
 
 #### JobCrafter AI [Private Repository]
 A premium full-suite professional campaign workspace for senior role applications and interview preparation.
