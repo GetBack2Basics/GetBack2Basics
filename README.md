@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George | Senior GIS Developer & Spatial Analyst
 
-I am a geospatial professional with over 2 decaded of experience bridging the gap between complex spatial data and actionable business insights. My expertise ranges from building full-stack web mapping applications to designing automated geoprocessing pipelines and AI-assisted content systems.
+I am a geospatial professional with over 2 decades of experience bridging the gap between complex spatial data and actionable business insights. My expertise ranges from building full-stack web mapping applications to designing automated geoprocessing pipelines and AI-assisted content systems.
 
 Currently, I'm focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance web interfaces.
 
