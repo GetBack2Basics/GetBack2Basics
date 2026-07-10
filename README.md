@@ -1,8 +1,14 @@
 # 👋 Hi, I'm George | Senior GIS Developer & Spatial Analyst
 
-I am a geospatial professional with over 15 years of experience bridging the gap between complex spatial data and actionable business insights. My expertise ranges from building full-stack web mapping applications to designing automated geoprocessing pipelines and AI-assisted content systems.
+I am a geospatial professional with over 2 decaded of experience bridging the gap between complex spatial data and actionable business insights. My expertise ranges from building full-stack web mapping applications to designing automated geoprocessing pipelines and AI-assisted content systems.
 
 Currently, I'm focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance web interfaces.
+
+The projects here are mostly for me to learn new tech and others are to get the job done in my professional and volunteer roles. I am a learner by doing the hardest tasks first and not reading and following to many guide books/webinars etc.
+
+Code that's part of any work project includes only generic, freely available data and connections. My projects over the last year or so have tended to be data-agnostic, so anyone can use them with their own custom data.
+
+The purpose here is not the "product" in most cases but the tech stack and process to achieve it. That's why this repo is mostly open source.
 
 ---
 
