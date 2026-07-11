@@ -59,7 +59,7 @@ An MCP bridge for QGIS that extends the upstream project with Hermes and agent-o
 A QGIS-based remote sensing operations workspace built to replace fragmented RS processes spread across ERDAS, Arc, Google Earth, and spreadsheets.
 - **Focus:** End-to-end remote sensing project delivery inside QGIS.
 - **Key features:** Multi-phase plugin tooling for project setup, progress tracking, rollback, image analysis, quick draw, AI-assisted coding, and QC reporting.
-- **Status:** Workflow modernization platform · Started 05/2026.
+- **Status:** Workflow modernization platform · Started 05/2024.
 
 #### [🏢 Enterprise_Geo_Metadata_Discovery_Reprojector-](https://github.com/GetBack2Basics/Enterprise_Geo_Metadata_Discovery_Reprojector-)
 An ArcPy and SQL-based enterprise migration workflow for discovering spatial metadata, auditing SDE complexity, and planning large-scale reprojection programs.
@@ -67,8 +67,14 @@ An ArcPy and SQL-based enterprise migration workflow for discovering spatial met
 - **Key features:** Reviews versioning, archiving, metadata, attachments, relationships, subtypes, coordinate columns, schemas, and projections with reporting support.
 - **Status:** Enterprise migration workflow · Started 07/2025.
 
+#### [🖼️ PixelCraft](https://github.com/GetBack2Basics/PixelCraft)
+A high-performance Python toolkit for raster processing and image manipulation in GIS workflows.
+- **Focus:** Spatial imagery analysis, automated cleaning, and production-ready raster preparation.
+- **Key features:** Coordinate-aware cropping, multi-spectral analysis, and conversion of raw imagery into usable GIS layers.
+- **Status:** Raster-processing toolkit · Started 07/2025.
+
 #### [🗂️ Geo_Metadata_Discovery_Reprojector](https://github.com/GetBack2Basics/Geo_Metadata_Discovery_Reprojector)
-A Python workflow for discovering flat-file spatial metadata, identifying duplicates and archive candidates, and supporting reprojection programs such as GDA94 to GDA2020.
+A pyqgis / gdal workflow for discovering flat-file spatial metadata, identifying duplicates and archive candidates, and supporting reprojection programs such as GDA94 to GDA2020.
 - **Focus:** File-based metadata discovery, cleanup planning, and reprojection preparation.
 - **Status:** Long-running foundation workflow · Started 01/2018.
 
@@ -88,12 +94,6 @@ An AI-guided spatial comparison workflow that uses QGIS MCP via Hermes to reconc
 - **Focus:** Data aggregation, cleanup, and operator-ready documentation.
 - **Connected workflow:** Produces outputs designed to pair with Spatial_Report_Crafter.
 - **Status:** AI-assisted comparison workflow · Started 06/2026.
-
-#### [🖼️ PixelCraft](https://github.com/GetBack2Basics/PixelCraft)
-A high-performance Python toolkit for raster processing and image manipulation in GIS workflows.
-- **Focus:** Spatial imagery analysis, automated cleaning, and production-ready raster preparation.
-- **Key features:** Coordinate-aware cropping, multi-spectral analysis, and conversion of raw imagery into usable GIS layers.
-- **Status:** Raster-processing toolkit · Started 07/2025.
 
 #### [🗺️ craft_layout](https://github.com/GetBack2Basics/craft_layout)
 An ArcGIS Pro automation tool that determines the best-fit layout orientation and scale for each feature in a map series.
@@ -133,12 +133,12 @@ A content workflow for turning travel photos into social-ready outputs and story
 - **Status:** Social content workflow · Started 06/2026.
 
 #### [🛍️ ozlanka-outdoor-gear](https://github.com/GetBack2Basics/ozlanka-outdoor-gear)
-A project space for outdoor gear-related workflows and experimentation, likely tied to product, content, or operational tooling.
+A project to connect me back to home and help Sri Lankans access Aussie style camping gear at affordable prices and quality. This system collects aussie product details, converts pricing to Rs and creates shopping lists for monthly shipments to Sri Lanka.
 - **Focus:** Outdoor gear workflow exploration and structured delivery patterns.
 - **Status:** New domain experiment · Started 06/2026.
 
 #### [🃏 304_Card_Game](https://github.com/GetBack2Basics/304_Card_Game)
-A card game project that broadens the profile beyond GIS and shows the same habit of learning by building practical, working systems.
+My first foray in to Gemini App builder to reconnect to a Sri Lankan card game I played in my teenage years.
 - **Focus:** Applying structured development patterns in a game-oriented domain.
 - **Status:** Side build experiment · Started 12/2025.
 
@@ -169,9 +169,9 @@ The configuration repository for this GitHub profile.
 ---
 
 ### 📈 What I'm working on
-- 🚌 Building out **publictransport-crafter** as a spatial workflow engine for transport-focused analysis and automation.
+- 🚌 Building out **publictransport-crafter** as a spatial workflow engine for understanding new stacks for big data analysis -where GIS is headed!
 - 🤖 Systemizing AI-assisted build flows in **Agent_Dev_Crafter** so app creation can move from ad hoc prompting to controlled, editable workflows.
-- 🗺️ Advancing modern GIS delivery patterns with **QWC2, Mapbox, and open-source web mapping stacks**.
+- 🗺️ Advancing modern GIS delivery patterns with **open-source web mapping stacks**.
 - ⚙️ Developing reusable **Python + TypeScript** modules for ETL, spatial analysis, imagery forms, content operations.
 
 ---
