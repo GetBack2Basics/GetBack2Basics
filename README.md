@@ -1,12 +1,14 @@
 # 👋 Hi, I'm George | Senior Spatial Developer, Analyst, Remote Sensing and AI specialist
 
-I’m a geospatial professional with over 2 decades of experience turning messy spatial problems into practical, working systems. My work spans enterprise GIS, remote sensing, automation, web mapping, and AI-assisted delivery — usually where the brief is complex, the process is clunky, and the existing tooling is getting in the way.
+I turn messy spatial problems into practical, working systems.
+
+I’m a geospatial professional with over 2 decades of experience across enterprise GIS, remote sensing, automation, web mapping, and AI-assisted delivery. Most of my work sits where the brief is complex, the process is clunky, and the existing tooling is getting in the way.
 
 Currently, I’m focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance interfaces that actually help people get work done.
 
 Most of the projects here exist for one of two reasons: to learn a stack properly by using it on something real, or to solve an actual problem in my professional and volunteer work. I tend to learn by doing the hard thing first, then tightening the process until it becomes reusable.
 
-Code that relates to workplace delivery uses only generic, freely available data and connections. A lot of what I’ve built in the last few years is deliberately data-agnostic so the methods, patterns, and workflows can be reused in other environments.
+Code that relates to workplace delivery uses only generic, freely available data and connections. A lot of what I’ve built in recent years is deliberately data-agnostic so the methods, patterns, and workflows can be reused in other environments.
 
 ## TO PUT IT BLUNTLY
 
@@ -19,11 +21,11 @@ I’m usually less interested in the polished “product” than in the stack, w
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python (ArcPy, PyQGIS, GeoPandas), TypeScript/JavaScript (React, Node.js), SQL (PostgreSQL/PostGIS) |
-| **Frontend & UI** | React 19, Vite, Tailwind CSS, Motion, Interactive dashboard design |
-| **Geospatial Ecosystem** | ArcGIS Pro/Enterprise, QGIS, FME, SDE, GeoServer, Precisely Specturum, MapInfo |
+| **Frontend & UI** | React 19, Vite, Tailwind CSS, Motion, interactive dashboard design |
+| **Geospatial Ecosystem** | ArcGIS Pro/Enterprise, QGIS, FME, SDE, GeoServer, Precisely Spectrum, MapInfo |
 | **Web Mapping** | Mapbox GL JS, Leaflet, OpenLayers, QWC2, Sedona |
 | **Infrastructure & DevOps** | Docker, Git/GitHub Actions, REST APIs, AWS, Oracle |
-| **AI & Data** | Gemini, OpenRouter, Nous, Hermes, Claude, Spatial Statistics, Raster/Image Processing |
+| **AI & Data** | Gemini, OpenRouter, Nous, Hermes, Claude, spatial statistics, raster/image processing |
 
 ---
 
@@ -68,7 +70,7 @@ An ArcPy and SQL-based enterprise migration workflow for discovering spatial met
 #### [🗂️ Geo_Metadata_Discovery_Reprojector](https://github.com/GetBack2Basics/Geo_Metadata_Discovery_Reprojector)
 A Python workflow for discovering flat-file spatial metadata, identifying duplicates and archive candidates, and supporting reprojection programs such as GDA94 to GDA2020.
 - **Focus:** File-based metadata discovery, cleanup planning, and reprojection preparation.
-- **Status:** Long-running core workflow pattern · Started 01/2018.
+- **Status:** Long-running foundation workflow · Started 01/2018.
 
 #### [📄 Spatial_Report_Crafter](https://github.com/GetBack2Basics/Spatial_Report_Crafter)
 A report-generation workflow for turning spatial data into HTML and CSV outputs that clients can review without a web server or separate app.
@@ -110,10 +112,35 @@ A mapping and report-delivery project focused on producing polished outputs for 
 - **Focus:** Customized map production and report-ready deliverables.
 - **Status:** Deliverable-generation workspace · Started 02/2026.
 
+#### [🧾 Spatial_Document-Crafter](https://github.com/GetBack2Basics/Spatial_Document-Crafter)
+A spatial document-generation workspace focused on building deliverables and structured outputs around geospatial content.
+- **Focus:** Turning spatial inputs into clearer, reusable document workflows.
+- **Status:** Document workflow workspace · Started 06/2026.
+
 #### [🖼️ imagery_form_crafter](https://github.com/GetBack2Basics/imagery_form_crafter)
 A TypeScript workflow project for building structured imagery-related forms and request interfaces.
 - **Focus:** Cleaner user interfaces for imagery collection and request processes.
 - **Status:** UI workflow component · Started 06/2026.
+
+#### [🖼️ Tile_Image_Comparator](https://github.com/GetBack2Basics/Tile_Image_Comparator)
+A comparison workflow for checking imagery tiles against source outputs and related form-driven image processes.
+- **Focus:** Visual comparison, QA, and imagery workflow validation.
+- **Status:** New imagery QA experiment · Started 07/2026.
+
+#### [🧳 Travel_Photo_Socials_Crafter](https://github.com/GetBack2Basics/Travel_Photo_Socials_Crafter)
+A content workflow for turning travel photos into social-ready outputs and story-driven post material.
+- **Focus:** Structured travel content creation using reusable processing patterns.
+- **Status:** Social content workflow · Started 06/2026.
+
+#### [🛍️ ozlanka-outdoor-gear](https://github.com/GetBack2Basics/ozlanka-outdoor-gear)
+A project space for outdoor gear-related workflows and experimentation, likely tied to product, content, or operational tooling.
+- **Focus:** Outdoor gear workflow exploration and structured delivery patterns.
+- **Status:** New domain experiment · Started 06/2026.
+
+#### [🃏 304_Card_Game](https://github.com/GetBack2Basics/304_Card_Game)
+A card game project that broadens the profile beyond GIS and shows the same habit of learning by building practical, working systems.
+- **Focus:** Applying structured development patterns in a game-oriented domain.
+- **Status:** Side build experiment · Started 12/2025.
 
 #### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
 A lightweight reference repo for quick-start notes across Ubuntu, Hermes, and AI-agent workflows.
@@ -145,7 +172,7 @@ The configuration repository for this GitHub profile.
 - 🚌 Building out **publictransport-crafter** as a spatial workflow engine for transport-focused analysis and automation.
 - 🤖 Systemizing AI-assisted build flows in **Agent_Dev_Crafter** so app creation can move from ad hoc prompting to controlled, editable workflows.
 - 🗺️ Advancing modern GIS delivery patterns with **QWC2, Mapbox, and open-source web mapping stacks**.
-- ⚙️ Developing reusable **Python + TypeScript** modules for ETL, spatial analysis, imagery forms, and content operations.
+- ⚙️ Developing reusable **Python + TypeScript** modules for ETL, spatial analysis, imagery forms, content operations.
 
 ---
 
