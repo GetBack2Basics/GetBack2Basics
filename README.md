@@ -1,16 +1,16 @@
 # 👋 Hi, I'm George | Senior Spatial Developer, Analyst, Remote Sensing and AI specialist
 
-I am a geospatial professional with over 2 decades of experience bridging the gap between complex spatial data and actionable business insights. My expertise ranges from building full-stack web mapping applications to designing automated geoprocessing pipelines and AI-assisted content systems.
+I am a geospatial professional with over 2 decades of experience bridging the gap between complex spatial data and actionable business insights. My expertise ranges from building full-stack web mapping applications and automation pipelines to designing AI-assisted GIS workflows for enterprise and field use.
 
 Currently, I'm focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance web interfaces.
 
-The projects here are mostly for me to learn new tech and others are to get the job done in my professional and volunteer roles. I am a learner by doing the hardest tasks first and not reading and following to many guide books/webinars etc.
+The projects here are mostly for me to learn new tech and others are to get the job done in my professional and volunteer roles. I am a learner by doing the hardest tasks first and not reading and talking about theory unless I have to.
 
-Code that's part of any work project includes only generic, freely available data and connections. My projects over the last year or so have tended to be data-agnostic, so anyone can use them with their own custom data.
+Code that's part of any work project includes only generic, freely available data and connections. My projects over the last year or so have tended to be data-agnostic, so anyone can use them with their own datasets and environments.
 
 ##TO PUT IT BLUNTLY
 
-The purpose here is not the "product" or "repo" - in most cases but the tech stack and process to achieve it. That's why this repo is mostly open source. It is showcasing the ability to achieve best-fit innovative outcomes using the currently available tech stack and pushing emerging options as appropriate by getting back to basics.
+The purpose here is not the "product" or "repo" - in most cases but the tech stack and process to achieve it. That's why this repo is mostly open source. It is showcasing the ability to achieve better outcomes through practical delivery, experimentation and problem solving.
 
 ---
 
@@ -43,6 +43,41 @@ A premium full-suite professional campaign workspace for senior role application
 #### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
 A lightweight repository of cheat sheets to get up and running quickly. Ubuntu, Hermes (AI Agents in general)
 - **Focus:** Fast-reference notes, setup reminders, and practical snippets.
+
+#### [🧭 qgis-mcp](https://github.com/GetBack2Basics/qgis-mcp)
+A fork extending QGIS MCP with Hermes and agent-focused improvements so AI tools can control QGIS through the Model Context Protocol.
+- **Focus:** MCP-driven QGIS automation, plugin/server sync, and agent integration.
+- **Key features:** 102 QGIS tools covering layers, features, styling, layouts, atlas, SQL, processing, and system operations.
+
+#### [🗂️ Geo_Metadata_Discovery_Reprojector](https://github.com/GetBack2Basics/Geo_Metadata_Discovery_Reprojector)
+A Python workflow for discovering flat-file spatial metadata, planning archive and duplicate cleanup, and supporting reprojection programs such as GDA94 to GDA2020.
+- **Focus:** File-based metadata discovery, migration planning, and reprojection support.
+- **Current direction:** Public-facing summary repo for a larger workflow maintained internally.
+
+#### [🛰️ QGIS_Remote_Sensing_Workflow](https://github.com/GetBack2Basics/QGIS_Remote_Sensing_Workflow)
+A QGIS-based remote sensing workflow platform designed to replace fragmented RS processes spread across ERDAS, Arc, Google Earth, and spreadsheets.
+- **Focus:** End-to-end remote sensing project management inside QGIS.
+- **Key features:** Multi-phase plugin tooling for project setup, progress tracking, rollback, image analysis, quick draw, AI-assisted coding, and QC reporting.
+
+#### [🏢 Enterprise_Geo_Metadata_Discovery_Reprojector-](https://github.com/GetBack2Basics/Enterprise_Geo_Metadata_Discovery_Reprojector-)
+An ArcPy and SQL-based enterprise workflow for discovering spatial metadata, auditing SDE complexity, and managing reprojection and migration readiness.
+- **Focus:** Enterprise geodata QA, migration planning, and reprojection at schema scale.
+- **Key features:** Reviews versioning, archiving, metadata, attachments, relationships, subtypes, coordinate columns, schemas, and projections with reporting support.
+
+#### [🧮 QGIS_Data_Aggregrator](https://github.com/GetBack2Basics/QGIS_Data_Aggregrator)
+An AI instruction-set repository for comparing current spatial data with field-collected tables using QGIS MCP via Hermes.
+- **Focus:** Data aggregation, cleanup, and operator-ready documentation.
+- **Connected workflow:** Produces outputs designed to pair with Spatial_Report_Crafter.
+
+#### [📄 Spatial_Report_Crafter](https://github.com/GetBack2Basics/Spatial_Report_Crafter)
+A report-generation project for turning spatial data into HTML and CSV outputs that clients can review without a web server or separate app.
+- **Focus:** Lightweight client review workflows for spatial deliverables.
+- **Current direction:** Simplifying spatial feedback loops through portable report outputs.
+
+#### [🌐 QGIS_PortalCrafter](https://github.com/GetBack2Basics/QGIS_PortalCrafter)
+A QGIS 4.x plugin for Conservation Planning & Offsets portal staging that validates configured inputs and registers portal layers from local spatial sources.
+- **Focus:** Portal staging and configuration-driven layer registration in QGIS.
+- **Key features:** YAML config validation, layer registry checks, and support for mixed vector and raster staging inputs.
 
 #### [🖼️ imagery_form_crafter](https://github.com/GetBack2Basics/imagery_form_crafter)
 A TypeScript-based project for crafting imagery-related forms and structured workflows.
