@@ -40,6 +40,11 @@ A premium full-suite professional campaign workspace for senior role application
 - **Tech:** React 19, TypeScript, Vite, Tailwind CSS, Motion, Gemini via `@google/genai`.
 - See https://github.com/GetBack2Basics/GetBack2Basics/blob/38bb5e1d67557bf997f5a21f140aac38e31c01e0/JobHuntCrafter.md
 
+#### [🤖 Agent_Dev_Crafter](https://github.com/GetBack2Basics/Agent_Dev_Crafter) [Private Repository]
+A systemized app-development workspace for creating AI agent workflows and editable command sequences to build applications from scratch.
+- **Focus:** Turning chat-based build processes into repeatable, operator-controlled development workflows.
+- **Key features:** Inline command editing, custom LLM JSON calls, and human-readable responses for small-step delivery.
+
 #### [🧭 qgis-mcp](https://github.com/GetBack2Basics/qgis-mcp)
 An MCP bridge for QGIS that extends the upstream project with Hermes and agent-oriented improvements, allowing AI tools to operate desktop GIS workflows directly.
 - **Focus:** QGIS automation through MCP, plugin/server coordination, and coding-agent integration.
@@ -123,7 +128,7 @@ The configuration repository for this GitHub profile.
 
 ### 📈 What I'm working on
 - 🚌 Building out **publictransport-crafter** as a spatial workflow engine for transport-focused analysis and automation.
-- 🧠 Expanding AI-assisted tooling using **React 19 + TypeScript + Gemini** for tailored document and workflow generation.
+- 🤖 Systemizing AI-assisted build flows in **Agent_Dev_Crafter** so app creation can move from ad hoc prompting to controlled, editable workflows.
 - 🗺️ Advancing modern GIS delivery patterns with **QWC2, Mapbox, and open-source web mapping stacks**.
 - ⚙️ Developing reusable **Python + TypeScript** modules for ETL, spatial analysis, imagery forms, and content operations.
 
