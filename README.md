@@ -198,9 +198,9 @@ My first foray in to Gemini App builder to reconnect to a Sri Lankan card game I
 - **Status:** Side build experiment · Started 12/2025.
 
 #### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
-A lightweight reference repo for quick-start notes across Ubuntu, Hermes, and AI-agent workflows.
-- **Focus:** Fast-reference setup notes, reminders, and practical snippets.
-- **Status:** Long-running reference repo · Started 01/2010.
+A growing reference library of setup guides and operational playbooks covering local LLMs, Wherobots/Sedona, Cloudflare tunnels, self-hosted mail, Firebase Auth, AI-agent tax workflows, Linux/Windows machine tuning, Hermes performance, and git-based wikis.
+- **Focus:** Practical, reusable setup notes and playbooks for the tools and stacks used across this profile.
+- **Status:** Actively expanding reference repo · Started 06/2026.
 
 #### [🧪 GIS Sandbox](https://github.com/GetBack2Basics/sandbox)
 A working sandbox of GIS prototypes, including QWC2 configurations and experimental spatial algorithms.
