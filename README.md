@@ -31,7 +31,61 @@ I’m usually less interested in the polished “product” than in the stack, w
 
 ### 🚀 Featured Projects
 
-#### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
+#### [📐 SpatialCourse_Crafter](https://github.com/GetBack2Basics/SpatialCourse_Crafter)
+A structured course-building workspace for creating reusable, HTML-based spatial training content.
+- **Focus:** Packaging spatial workflows and tooling concepts into accessible course material.
+- **Status:** New build · Started 08/2026.
+
+#### [📖 BibleStudy-Crafter](https://github.com/GetBack2Basics/BibleStudy-Crafter)
+A local-first, Docker-based Bible study generator with an offline corpus and swappable AI backend.
+- **Focus:** Structured theological study workflows using open-source and local LLM tooling.
+- **Tech:** Python, Docker, offline corpus, swappable AI.
+- **Status:** New local-first build · Started 08/2026.
+
+#### [🎯 SplatOlympics](https://github.com/GetBack2Basics/SplatOlympics)
+A FunGIS spatial game using Gaussian blur to create competitive spatial challenges.
+- **Focus:** Applying geospatial rendering techniques in a gamified, shareable context.
+- **Tech:** TypeScript.
+- **Status:** Fun GIS experiment · Started 08/2026.
+
+#### [🐳 hunter_spatial_crafter](https://github.com/GetBack2Basics/hunter_spatial_crafter)
+Wherobots spatial SQL and geospatial notebook workflows focused on the Hunter region.
+- **Focus:** Big-data spatial SQL experimentation using Wherobots and Sedona, applied to local geography.
+- **Tech:** Python, Wherobots, Sedona.
+- **Status:** Active spatial notebook · Started 07/2026.
+
+#### [🐘 SLWCS](https://github.com/GetBack2Basics/SLWCS)
+Technical methodologies and project reports from integrated conservation projects led from 1998–2010 for the Sri Lanka Wildlife Conservation Society (SLWCS), including the UN Award-winning SEHP program, the Google-funded eleID AI program, the patented eleAlert system, and the c2GIS hub.
+- **Focus:** Archiving conservation-science methods and AI-assisted wildlife management tooling.
+- **Status:** Historical archive · 1998–2010.
+
+#### [🦬 FunGIS](https://github.com/GetBack2Basics/FunGIS)
+A collection of projects from my tenure as Chair and Executive of the Far North GIS User Group, plus personal work in that region since.
+- **Focus:** Community GIS delivery, presentations, and spatial tooling experiments from the FunGIS network.
+- **Status:** Community archive · Started 07/2026.
+
+#### [🌐 Enigma-and-Eureka-Web-Design](https://github.com/GetBack2Basics/Enigma-and-Eureka-Web-Design)
+Early web design work from establishing the development arm of Sri Lankan ISP Eureka and later running Enigma, serving top firms in Sri Lanka and internationally. Includes "Kotiya", Yahoo pages for Sri Lanka.
+- **Focus:** Archiving foundational web work from hand-coded HTML through Dreamweaver/FrontPage projects.
+- **Status:** Historical archive · Late 1990s–early 2000s.
+
+#### [🐬 Darwin_EckerdCollege](https://github.com/GetBack2Basics/Darwin_EckerdCollege)
+A reference to Project Darwin (1993), a pioneering Machine Learning program that used dolphin dorsal fins for identification, encountered during my Marine Science degree at Eckerd College.
+- **Focus:** Documenting early exposure to applied ML in a biological/ecological context.
+- **Status:** Historical reference · 1993.
+
+#### [🌍 X_your_code_hacky_hour_SoS_Lidar_QGIS_Analysis](https://github.com/GetBack2Basics/X_your_code_hacky_hour_SoS_Lidar_QGIS_Analysis)
+Workshop materials for an AI/HPC communities-of-practice session on using LLMs to improve coding, applied to a 50-hour sprint for the Save our Species team on Malleefowl nest LiDAR analysis in QGIS.
+- **Focus:** Teaching LLM-assisted development patterns through a real conservation analysis sprint.
+- **Tech:** Python, QGIS, LiDAR.
+- **Status:** Workshop archive · Late 2024.
+
+#### [🚑 sbtf](https://github.com/GetBack2Basics/sbtf)
+Standby Taskforce — supporting disaster activations using simple front-end spatial tools and volunteers to address critical needs during times of disaster.
+- **Focus:** Rapid-deployment volunteer spatial workflows for humanitarian crisis response.
+- **Status:** Humanitarian volunteer tooling · Started 07/2026.
+
+
 Utilizing massive data tools Wherobots and Sedona-based - focused on big data sandboxing public transport planning and workflow experimentation as a personal peeve.
 - **Focus:** Exploring transport-oriented tooling and automation patterns.
 - **Status:** In testing · Started 04/2026.
@@ -61,11 +115,11 @@ A QGIS-based remote sensing operations workspace built to replace fragmented RS 
 - **Key features:** Multi-phase plugin tooling for project setup, progress tracking, rollback, image analysis, quick draw, AI-assisted coding, and QC reporting.
 - **Status:** Workflow modernization platform · Started 05/2024.
 
-#### [🏢 Enterprise_Geo_Metadata_Discovery_Reprojector-](https://github.com/GetBack2Basics/Enterprise_Geo_Metadata_Discovery_Reprojector-)
+#### [🏢 Enterprise_Geo_Metadata_Discovery_Reprojector](https://github.com/GetBack2Basics/Enterprise_Geo_Metadata_Discovery_Reprojector)
 An ArcPy and SQL-based enterprise migration workflow for discovering spatial metadata, auditing SDE complexity, and planning large-scale reprojection programs.
 - **Focus:** Enterprise geodata QA, migration readiness, and schema-scale reprojection support.
 - **Key features:** Reviews versioning, archiving, metadata, attachments, relationships, subtypes, coordinate columns, schemas, and projections with reporting support.
-- **Status:** Enterprise migration workflow · Started 07/2025.
+- **Status:** Enterprise migration workflow · Started 07/2026.
 
 #### [🖼️ PixelCraft](https://github.com/GetBack2Basics/PixelCraft)
 A high-performance Python toolkit for raster processing and image manipulation in GIS workflows.
