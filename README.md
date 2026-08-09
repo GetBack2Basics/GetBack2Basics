@@ -2,17 +2,17 @@
 
 I turn messy spatial problems into practical, working systems.
 
-I’m a geospatial professional with over 2 decades of experience across enterprise GIS, remote sensing, automation, web mapping, and AI-assisted delivery. Most of my work sits where the brief is complex, the process is clunky, and the existing tooling is getting in the way.
+I’m a geospatial professional with over 2 decades of experience across enterprise GIS, remote sensing, automation, web mapping, and AI-assisted delivery. Most of my work sits where the brief is complex, the data is messy, and the workflow needs to be made usable.
 
 Currently, I’m focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance interfaces that actually help people get work done.
 
-Most of the projects here exist for one of two reasons: to learn a stack properly by using it on something real, or to solve an actual problem in my professional and volunteer work. I tend to learn by doing the hard thing first, then tightening the process until it becomes reusable.
+Most of the projects here exist for one of two reasons: to learn a stack properly by using it on something real, or to solve an actual problem in my professional and volunteer work. I tend to learn by building, and I keep the output practical, repeatable, and as data-agnostic as possible.
 
-Code that relates to workplace delivery uses only generic, freely available data and connections. A lot of what I’ve built in recent years is deliberately data-agnostic so the methods, patterns, and workflows can be reused in other environments.
+Code that relates to workplace delivery uses only generic, freely available data and connections. A lot of what I’ve built in recent years is deliberately data-agnostic so the methods, patterns, and automation can be reused elsewhere.
 
 ## TO PUT IT BLUNTLY
 
-I’m usually less interested in the polished “product” than in the stack, workflow, and delivery pattern behind it. The point of most of these repos is to show how to get from a vague or ugly problem to a useful result — with better structure, better tooling, and less fluff.
+I’m usually less interested in the polished “product” than in the stack, workflow, and delivery pattern behind it. The point of most of these repos is to show how to get from a vague or ugly problem to something operational, maintainable, and actually useful.
 
 ---
 
@@ -133,7 +133,7 @@ A content workflow for turning travel photos into social-ready outputs and story
 - **Status:** Social content workflow · Started 06/2026.
 
 #### [🛍️ ozlanka-outdoor-gear](https://github.com/GetBack2Basics/ozlanka-outdoor-gear)
-A project to connect me back to home and help Sri Lankans access Aussie style camping gear at affordable prices and quality. This system collects aussie product details, converts pricing to Rs and creates shopping lists for monthly shipments to Sri Lanka.
+A project to connect me back to home and help Sri Lankans access Aussie style camping gear at affordable prices and quality. This system collects aussie product details, converts pricing to Rs and helps shape a practical cross-border retail workflow.
 - **Focus:** Outdoor gear workflow exploration and structured delivery patterns.
 - **Status:** New domain experiment · Started 06/2026.
 
