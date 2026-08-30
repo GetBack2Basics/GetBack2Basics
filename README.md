@@ -38,8 +38,7 @@ Selected major recognition, ordered by significance:
 | **2008** | **[UN Equator Initiative / UNDP Equator Initiative Prize](https://slwcsupdates.blogspot.com/2012/11/commemorating-10-years-of-volunteer.html)** | SLWCS / Saving Elephants by Helping People programme — received during George Chandeep Corea's tenure as Operations Director and Head of GIS |
 | **2013** | **Spatial Excellence Award — [GITA Australia & New Zealand](https://www.mangoesmapping.com.au/about-us/)** | _Resilient Communications for the Tablelands_ · Project Officer and Technical Lead; project avoided more than AUD 200,000 in planned radio infrastructure |
 | **2013** | **Presentation & recognition — Australia & New Zealand Disaster and Emergency Management Conference (ANZDMC)** | _Resilient Communications for the Tablelands_ presented at ANZDMC 2013 |
-| — | **Spain Startup recognition** | _(Archival details pending verification)_ |
-| — | **FAC recognition** | _(Archival details pending verification)_ |
+
 
 [View full awards and achievements record](CoreaGeorgeChandeep_Awards.md) · [View full publication and presentation history](CoreaGeorgeChandeep_Publications.md)
 
@@ -81,7 +80,7 @@ A local-first, Docker-based Bible study generator with an offline corpus and swa
 A FunGIS spatial game using Gaussian blur to create competitive spatial challenges.
 - **Focus:** Applying geospatial rendering techniques in a gamified, shareable context.
 - **Tech:** TypeScript.
-- **Status:** Fun GIS experiment · Started 08/2026. See LinkedIn article on how AI Fakes it till it makes it!
+- **Status:** FunGIS experiment for Spatial Olympics· Started 08/2026. See LinkedIn article on how AI Fakes it till it makes it!
 
 #### [🧭 qgis-mcp](https://github.com/GetBack2Basics/qgis-mcp)
 An MCP bridge for QGIS that extends the upstream project with Hermes and agent-oriented improvements, allowing AI tools to operate desktop GIS workflows directly.
