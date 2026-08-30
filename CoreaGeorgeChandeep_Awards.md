@@ -1,7 +1,5 @@
 # Awards & Achievements — George Chandeep Corea
 
-> **Name note:** Awards and recognition received under both **George Chandeep Corea** and **Chandeep Corea** depending on the venue and co-author conventions. Both forms refer to the same person.
-
 *This is a best-effort public record compiled from publisher catalogues, professional references, and repository history. Last reviewed: 30 August 2026*
 
 ---
