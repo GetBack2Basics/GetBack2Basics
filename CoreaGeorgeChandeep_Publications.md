@@ -1,7 +1,5 @@
 # Publication & Presentation History — George Chandeep Corea
 
-> **Name note:** Published under both **George Chandeep Corea** and **Chandeep Corea** depending on the venue and co-author conventions. Both forms refer to the same person. Searches on either form should find these records.
-
 _This is a best-effort public record compiled from publisher catalogues, conference proceedings, and professional references. It will be expanded as archival material is recovered._
 
 **Last reviewed: 30 August 2026**
