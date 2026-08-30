@@ -21,121 +21,144 @@ _This is a best-effort public record compiled from publisher catalogues, confere
 ---
 
 ## Detailed chronological record
+Over a 25-year career spanning geospatial technology, environmental management, and disaster response, George Chandeep Corea (also published as Chandeep Corea) has authored, co-authored, or delivered over 55 documented professional works.
 
-### 2004 — Elephant Walk Thru (Ivey Publishing field case)
+Summary by Category:
 
-**Authors:** William J. Ritchie, Matthew S. Shell, Ravi Corea, and Chandeep Corea
+Articles, Journals, and Published Case Studies: 5
 
-A field case study published by Ivey Publishing examining the Sri Lanka Wildlife Conservation Society's community-conservation model.
+Conference Papers, Posters, and Formal Presentations: 32
 
-- **Publisher listing:** [Harvard Business Publishing — Product 904M52](https://store.hbr.org/product/elephant-walk-thru/904M52)
-- **Catalogue entry (Ivey Cases):** [Chandeep Corea author search — Ivey Cases NCCU Taiwan](https://www.iveycases.nccu.edu.tw/tw/01/SearchResult.aspx?at=Chandeep+Corea)
+Technical Reports, Manuals, and Strategic Plans: 14
 
----
+Organized Workshops, Roundtables, and Lectures: 5
 
-### 2004 — Elephant Walk Thru — Teaching Note (Ivey Publishing)
+Total Documented Works: 56
 
-**Authors:** William J. Ritchie, Matthew S. Shell, Ravi Corea, and Chandeep Corea
+(Note: This index represents a comprehensive chronological bibliography drawn from publisher catalogues, conference proceedings, magazine publications, and organizational archives.)
 
-Companion teaching note to the field case above.
+2026
+Article: Learning Wherobots by Building a National AI Data Center Suitability Report. Invited technical blog article. [wherobots.com/blog/ai-data-center-site-suitability-wherobots/]
 
-- **Catalogue entry:** [Ivey Cases NCCU Taiwan — Chandeep Corea](https://www.iveycases.nccu.edu.tw/tw/01/SearchResult.aspx?at=Chandeep+Corea)
+2014
+Article: Mapping for Resilience. Position Magazine, Issue #70, pg. 28. [https://tinyurl.com/position-mag-pg28 | https://issuu.com/theintermediagroup/docs/pos_70]
 
----
+Talk: Guest Speaker on Town Planning and Disaster Analysis Projects. OZRI 2014.
 
-### 2005 — Biosphere Expeditions Sri Lanka — Expedition Report _(Acknowledgement)_
+2013
+Presentation: Chunking, Slicing Dicing, Analysing and Presenting Town Planning and Disaster Management Data. GITA Australia & New Zealand Conference (August 2013).
 
-The Biosphere Expeditions Sri Lanka 2005 expedition report acknowledges central operational support from Chandeep Corea and SLWCS colleagues.
+Paper & Presentation: Mapping Resilient Communication Pathways (with Sarah Dean). Australia & New Zealand Disaster and Emergency Management Conference (June 2013).
 
-- **Report (Biosphere Expeditions):** [report-srilanka05.pdf](https://www.biosphere-expeditions.org/images/stories/pdfs/reports/report-srilanka05.pdf)
+2012
+Acknowledgement: A Review of Geospatial Information Technology for Natural Disaster Management in Developing Countries. International Journal of Applied Geospatial Research, 3(2). [ResearchGate: Publication 237050474]
 
----
+Presentation: GIS in the Wilderness. Smartphone Apps Workshop (November 2012).
 
-### 2006 — Saving Elephants by Helping People (Copenhagen IEC Symposium)
+Presentation: Low Cost solutions for LiDAR Analysis (with Rahman Schionning). LiDAR 2012 Conference (June 2012).
 
-**Authors:** Ravi Corea, Harsha Gammanpila, Zeenath Khalid, Nishantha Dharmasiri, Chandima Fernando, and Chandeep Corea
+2010
+Paper & Presentation: An Automated Elephant Recognition System for Collaborative Habitat Monitoring. International Elephant Foundation (IEF) Symposium, South Africa. [https://tinyurl.com/eleid-2010]
 
-_Saving elephants by helping people — establishing a model for sustainable research, capacity building and community development for the protection of elephants in Sri Lanka and to resolve human-elephant conflicts._
+Paper & Presentation: The Challenges of Establishing a Project Integrating Physical and Biological Methods to Mitigate Human-Elephant Conflicts While Improving Livelihoods of Buffer Zone Communities. IEF Symposium, South Africa.
 
-Presented at the International Elephant Conservation and Research Symposium, Copenhagen, 2006.
+Paper & Presentation: The Moragahakanda and Kaluganga Development Project: Challenges and Opportunities for Human-Elephant Conflict Resolution in Sri Lanka. IEF Symposium, South Africa.
 
-- **Proceedings (IEC / elephantconservation.org):** [2006_Copenhagen_symposium.pdf](https://elephantconservation.org/wp-content/uploads/2022/11/2006_Copenhagen_symposium.pdf)
+Paper & Presentation: Electric Fence Intrusion Alert System (eleAlert). IEF Symposium, South Africa.
 
----
+2009
+Official Document: Living Document on Human Elephant Conflict Resolution. Human Elephant Conflict Task Force, IUCN Asian Elephant Specialist Group. (November 2009).
 
-### 2007 — Saving Elephants by Helping People: Lahugala Final Report, Phases I & II (March 2007)
+Abstract: Climate Change and Disaster Risk Reduction thru Spatial and Temporal Approaches to Human-Elephant Conflict Mitigation (with Ravi Corea, Samantha Mirandu). UNDP Disaster Management Symposium, Colombo, Sri Lanka (September 2009).
 
-**Authors:** Ravi Corea, Nishantha Dharmasiri, and Chandeep Corea
+Presentation: Climate Change and Disaster Risk Reduction thru Spatial and Temporal Approaches to Human-Elephant Conflict Mitigation. UNDP Disaster Management Symposium (July 2009).
 
-Final project report for Phases I and II of the Saving Elephants by Helping People programme — mitigating human-elephant conflicts along the southern boundary of the Lahugala Kitulana National Park for the long-term conservation of the Sri Lankan elephant.
+Workshop / Proceedings: Human Elephant Conflict Workshop, Beijing, China. Organized and presented on behalf of the IUCN Asian Elephant Specialist Group. [CiteSeerX: f39f06722bd1c27acde069e45238a04e3c85fdb9] (July 2009).
 
-- **Full report (IEC / elephantconservation.org):** [Ravi-LAHUGALA-Project-Final-Report-Feb-2007.pdf](https://elephantconservation.org/wp-content/uploads/2022/10/Ravi-LAHUGALA-Project-Final-Report-Feb-2007.pdf)
+Report: SLWCS Annual Report 2006-2008. [https://www.slwcs.org/annual-reports] (June 2009).
 
----
+Presentation: Lessons Learned in Human Elephant Conflict Mitigation (with Ravi Corea). Consortium of Humanitarian Agencies (CHA) Environmental Forum (March 2009).
 
-### 2009 — International Elephant Conservation and Research Symposium
+Presentation: SMART Conservation for Better Business (with Ravi Corea). Board of Investment of Sri Lanka (March 2009).
 
-Ravi Corea and Chandeep Corea presented successful community-conservation programmes from the SLWCS SEHP project. Documented in a public account of the symposium.
+Presentation: Lessons Learned in Livelihood Development and Agricultural Production enhancement through Mitigation of Human Elephant Conflict and Habitat Conservation. Canadian International Development Agency (CIDA) Lessons Learned Conference (February 2009).
 
-- **Event account (Elephants Without Borders):** [elephantswithoutborders.org — IEC 2009](https://elephantswithoutborders.org/blog/?p=466)
+Conference Abstract: A Survey of Sea Turtles in the East Coast of Sri Lanka to Assess Their Conservation Status (with Mirandu, M.S.K., et al.).
 
----
+2008
+Presentation: Keeping the elephant visible in the public eye: Establishing a veterinary healthcare, husbandry and breeding program for captive elephants in Sri Lanka. IEF Symposium, Thailand (November 2008).
 
-### 2009 (circa) — A Survey of Sea Turtles in the East Coast of Sri Lanka to Assess Their Conservation Status _(Archival — unverified)_
+Presentation: The Outcomes and Lessons Learned from 10 Years of Saving Elephants by Helping People Project. IEF Symposium, Thailand (November 2008).
 
-**Authors:** M. S. K. Mirandu, Ravi Corea, Chandeep Corea, Upul Karunasinghe, and Mahesh Pradeep
+Presentation: Ponds of Mercy - Can urban wetlands survive and flourish in Sri Lanka? 14th Annual Scientific Sessions of the Sri Lanka Association for Fisheries and Aquatic Resources (June 2008).
 
-Conference abstract/proceedings, circa 2009. A stable publisher or proceedings link has not yet been recovered for this item — it is listed here as an archival/unverified record pending location of the authoritative proceedings.
+Presentation: A Fish Story from a Riverscape in the 1st Peneplane of the Eastern Knuckles. Riverscapes Conference (June 2008).
 
----
+Presentation: A GIS based socio-ecological assessment of the current human uses of the Flood Plains National Park (December 2005 – April 2006). Riverscapes Conference (June 2008).
 
-### 2009 — Human Elephant Conflict Task Force Workshop, Beijing (10–11 July 2009)
+Presentation: Kalpitiya-Kariative-Puttalam (KKP) & Seruvila-Allia-Ullakalie (SAU) Coastal Wetland Complexes – A Comprehensive GIS based assessment and suggestions for conservation actions. Riverscapes Conference (June 2008).
 
-Chandeep Corea is listed on the organising committee of this IUCN/SSC Asian Elephant Specialist Group workshop in the capacity of **Operations Director and GIS Specialist, Sri Lanka Wildlife Conservation Society**.
+Report: Project Progress Report - Preliminary field surveys to assess the status of the endangered Dugong (Dugong dugon) and to record sea turtle nesting, poaching, by-catch mortalities and other threats in the Kalpitiya-Karaitive Puttalam Coastal Wetlands Complex (May 2008).
 
-- **Proceedings/reference (CiteSeerX):** [f39f06722bd1c27acde069e45238a04e3c85fdb9](https://citeseerx.ist.psu.edu/document?doi=f39f06722bd1c27acde069e45238a04e3c85fdb9&repid=rep1&type=pdf)
+Presentation: GIS and Community Tools for Conservation and Development. Senior Staff and researchers of Conservation International, Jakarta, Indonesia (April 2008).
 
----
+Presentation: GIS Based Rapid Ecological and Resource Utilization Baseline Survey of Lunugala Area. UNESCO-GoSL Horizon Development Roundtables for Trincomalee and Badulla Districts (April 2008).
 
-### 2012 — A Review of Geospatial Information Technology for Natural Disaster Management in Developing Countries _(Acknowledgement)_
+Presentation: GIS Based Rapid Ecological and Resource Utilization Baseline Survey of Seruvila Area. UNESCO-GoSL Horizon Development Roundtables for Trincomalee and Badulla Districts (April 2008).
 
-_International Journal of Applied Geospatial Research_, 3(2), 2012.
+Report: GIS Based Rapid Ecological and Resource Utilisation Baseline Survey of the Proposed Seruwila UNESCO World Heritage Site and Environment (April 2008).
 
-The paper acknowledges discussions with **Chandeep Corea as head of SLWCS GIS**. This is an acknowledgement, not an authored publication.
+Report: GIS Based Rapid Ecological and Resource Utilization Baseline Survey of Lunagala Division, Badulla District, Uva Province, Sri Lanka.
 
-- **ResearchGate:** [Publication 237050474](https://www.researchgate.net/publication/237050474_A_Review_of_Geospatial_Information_Technology_for_Natural_Disaster_Management_in_Developing_Countries)
+Lecture / Training: Conservation GIS Course. University of Peradeniya (February 2008).
 
----
+Presentation: Imagery in Conservation. GISSL Annual National Meeting (February 2008).
 
-### 2012–2013 — Resilient Communications for the Tablelands (LiDAR 2012 / GITA ANZ 2013 / ANZDMC 2013)
+Presentation: A Land Use Approach to Elephant Conservation. Born Free Foundation Symposium (January 2008).
 
-The _Resilient Communications for the Tablelands_ project — which identified existing communications pathways and avoided more than AUD 200,000 in planned radio infrastructure — was presented at:
+Paper & Presentation: An Assessment of the Kalpitiya Karaitive Puttalam Coastal Wetland Complex with Recommendations for its Conservation and Water Security Issues.
 
-- **LiDAR 2012 Conference**
-- **GITA Australia & New Zealand Conference 2013** (received **Spatial Excellence Award**)
-- **Australia & New Zealand Disaster and Emergency Management Conference 2013**
+2007
+Report: Saving Elephants by Helping People: Lahugala Final Report, Phases I & II (with Ravi Corea, Nishantha Dharmasiri). [Ravi-LAHUGALA-Project-Final-Report-Feb-2007.pdf] (March 2007).
 
-George Chandeep Corea served as **Project Officer and Technical Lead** on this project for Far North Queensland local government. See [Awards file](CoreaGeorgeChandeep_Awards.md) for associated recognition.
+Poster & Presentation: Use of GIS in Small Conservation Organizations – Community integrated solutions for HEC in Sri Lanka. ESRI and SCGIS 2007 Conferences, San Diego and Monterrey, California (June 2007).
 
-- **Supporting professional bio:** [Mangoes Mapping — About Us](https://www.mangoesmapping.com.au/about-us/)
-- **LinkedIn profile:** [linkedin.com/in/coreagc](https://au.linkedin.com/in/coreagc)
+Report: Final Technical Report for Kalpitiya Wetlands, Sri Lanka. Funded by IUCN-Netherlands.
 
----
+Report: Final Report on Field Scouts Program. Prepared for US Fish and Wildlife Service (January 2007).
 
-### — — Position Magazine _(Archival — unverified)_
+Report: Donating Computers to Rural Schools and Development Plan. Prepared for Lanka Academic Network (January 2007).
 
-Coverage of spatial and conservation work in Position Magazine. Exact title, issue, date, and source link have not yet been recovered and are pending archival verification. This placeholder will be updated when the record is confirmed.
+2006
+Strategic Plan: Development of SLWCS Remote Sensing and Geographic Information Systems Capacity (December 2006).
 
----
+Report: Final Technical Report for Flood Plains National Park, Sri Lanka. Funded by IUCN-Netherlands (November 2006).
 
-### 2026 — Learning Wherobots by Building a National AI Data Center Suitability Report
+Manual: Leopard Research in Central Sri Lanka: A field procedures manual. Prepared for SLWCS volunteers and staff (June 2006).
 
-**Author:** George Chandeep Corea
+Report: Final Technical Report; Socioeconomic Baseline of the Flood Plains National Park, Polonnaruwa, Sri Lanka. Funded by IUCN-Netherlands (May 2006).
 
-Invited technical blog article on the Wherobots platform, describing the construction of a national AI data-centre site suitability analysis using cloud spatial tools. Published 27 August 2026.
+Report: Final Technical Report for Bellanwila Attidiya Bird Sanctuary, Sri Lanka. Funded by IUCN-Netherlands (April 2006).
 
-- **Wherobots Blog:** [wherobots.com/blog/ai-data-center-site-suitability-wherobots/](https://wherobots.com/blog/ai-data-center-site-suitability-wherobots/)
+Paper & Presentation: Saving elephants by helping people — establishing a model for sustainable research, capacity building and community development. International Elephant Conservation and Research Symposium, Copenhagen. [2006_Copenhagen_symposium.pdf]
 
----
+Paper & Presentation: Impact of Tsunami on Protected Areas in Sri Lanka: One Year Later (January 2006).
 
-_End of record. Additional items will be added as archival material is recovered._
+2002–2005
+Report: Rapid Assessment of Human Elephant Conflict in the North West Region of Sri Lanka. Partially funded by Born Free Foundation (September 2005).
+
+Acknowledgement / Report: Biosphere Expeditions Sri Lanka — Expedition Report. [report-srilanka05.pdf] (2005).
+
+Paper & Presentation: Rapid Assessment of Protected Areas damaged by Asian Tsunami of December 2004 (February 2005).
+
+Case Study (Publication): Elephant Walk Thru (with William J. Ritchie, Matthew S. Shell, Ravi Corea). Harvard Business Publishing / Ivey Publishing. [Harvard Business Publishing - Product 904M52] (2004).
+
+Teaching Note (Publication): Elephant Walk Thru — Teaching Note. Companion to the field case study above, Ivey Publishing (2004).
+
+Presentation: Elephant Walk Thru case study for win/win development, conservation and sustainable development. North American Case Research Association, Tampa, Florida (November 2003).
+
+Presentation: Saving Elephants by Helping People (SEHP): Lessons in Community Integrated Elephant Conservation. Symposium on Human Elephant Relationships and Conflicts, Colombo, Sri Lanka (October 2003).
+
+Presentation: Saving Elephants by Helping People. International Elephant Foundation Symposium, Orlando, Florida (November 2002).
+
+Presentation: Developing economic incentives for the economically and biologically sustainable use of biodiversity. World Eco-Tourism Summit, Quebec, Canada (May 2002).
