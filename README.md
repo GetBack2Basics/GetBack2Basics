@@ -31,27 +31,17 @@ Usually less interested in the polished "product" than in the stack, workflow, a
 
 ### 🏆 Achievements & Recognition
 
-#### Personal & Team Awards
+Selected major recognition, ordered by significance:
 
-| Year | Award | Project / Context |
+| Year | Award / Recognition | Context |
 | :--- | :--- | :--- |
-| **2014** | **Team Winner** — [Startup Weekend Cairns](https://thespacecairns.com/forum/1408546995/startup_weeknd_cairns_a_huge_success) | **Pak Yak**, an app for safer biking |
-| **2013** | **Spatial Excellence Award** — [GITA Australia & New Zealand](https://www.mangoesmapping.com.au/about-us/) | _Resilient Communications for the Tablelands_ · George served as Project Officer and Technical Lead; project identified existing communications pathways and avoided more than AUD 200,000 in planned radio infrastructure |
-| **2013** | **Highly Commended, Spatial Enablement** — [Queensland Spatial Excellence Awards](https://au.linkedin.com/in/coreagc) | Same project as above |
+| **2008** | **[UN Equator Initiative / UNDP Equator Initiative Prize](https://slwcsupdates.blogspot.com/2012/11/commemorating-10-years-of-volunteer.html)** | SLWCS / Saving Elephants by Helping People programme — received during George Chandeep Corea's tenure as Operations Director and Head of GIS |
+| **2013** | **Spatial Excellence Award — [GITA Australia & New Zealand](https://www.mangoesmapping.com.au/about-us/)** | _Resilient Communications for the Tablelands_ · Project Officer and Technical Lead; project avoided more than AUD 200,000 in planned radio infrastructure |
+| **2013** | **Presentation & recognition — Australia & New Zealand Disaster and Emergency Management Conference (ANZDMC)** | _Resilient Communications for the Tablelands_ presented at ANZDMC 2013 |
+| — | **Spain Startup recognition** | _(Archival details pending verification)_ |
+| — | **FAC recognition** | _(Archival details pending verification)_ |
 
-#### Sri Lanka Wildlife Conservation Society / Saving Elephants by Helping People — Organisational Recognition
-
-Awards and recognition received by SLWCS and the SEHP programme during George Chandeep Corea's leadership and operational involvement (Operations Director and Head of GIS):
-
-| Year | Award / Recognition |
-| :--- | :--- |
-| **2008** | [UNDP Equator Initiative Prize](https://slwcsupdates.blogspot.com/2012/11/commemorating-10-years-of-volunteer.html) |
-| **2009** | [Whitley Fund for Nature Associate Award](https://slwcsupdates.blogspot.com/2012/11/commemorating-10-years-of-volunteer.html) |
-| **2009** | [Google.org Geo Challenge Grant Award](https://slwcsupdates.blogspot.com/2012/11/commemorating-10-years-of-volunteer.html) |
-| **2010** | [National Science Foundation of Sri Lanka — Science & Technology Contribution to Improve Sustainable Social Development](https://www.european-environment-foundation.eu/en-en/laureates-convention/past-events/5th-international-convention-of-environmental-laureates/participants/corea-ravi) |
-| **2011** | Charity of the Year — selected by the United States Ambassador to Sri Lanka / American Chamber of Commerce in Sri Lanka recognition |
-
-[View full publication and presentation history](CoreaGeorgeChandeep_Publications.md)
+[View full awards and achievements record](CoreaGeorgeChandeep_Awards.md) · [View full publication and presentation history](CoreaGeorgeChandeep_Publications.md)
 
 ---
 
