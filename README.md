@@ -1,18 +1,18 @@
 # 👋 Hi, I'm George | Senior Spatial Developer, Analyst, Remote Sensing and AI specialist
 
-I turn messy spatial problems into practical, working systems.
+Turn messy spatial problems into practical, working systems.
 
-I’m a geospatial professional with over 2 decades of experience across enterprise GIS, remote sensing, automation, web mapping, and AI-assisted delivery. Most of my work sits where the brief is complex, the data is messy, and the workflow needs to be made usable.
+A geospatial professional with over 2 decades of experience across enterprise GIS, remote sensing, automation, web mapping, and AI-assisted delivery. Most of the work sits where the brief is complex, the data is messy, and the workflow needs to be made usable.
 
-Currently, I’m focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance interfaces that actually help people get work done.
+Currently focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance interfaces that actually help people get work done.
 
-Most of the projects here exist for one of two reasons: to learn a stack properly by using it on something real, or to solve an actual problem in my professional and volunteer work. I tend to learn by building, and I keep the output practical, repeatable, and as data-agnostic as possible.
+Most of the projects here exist for one of two reasons: to learn a stack properly by using it on something real, or to solve an actual problem in professional and volunteer work. Tend to learn by building, and keep the output practical, repeatable, and as data-agnostic as possible.
 
-Code that relates to workplace delivery uses only generic, freely available data and connections. A lot of what I’ve built in recent years is deliberately data-agnostic so the methods, patterns, and automation can be reused elsewhere.
+Code that relates to workplace delivery uses only generic, freely available data and connections. A lot of what has been built in recent years is deliberately data-agnostic so the methods, patterns, and automation can be reused elsewhere.
 
 ## TO PUT IT BLUNTLY
 
-I’m usually less interested in the polished “product” than in the stack, workflow, and delivery pattern behind it. The point of most of these repos is to show how to get from a vague or ugly problem to something operational, maintainable, and actually useful.
+Usually less interested in the polished "product" than in the stack, workflow, and delivery pattern behind it. The point of most of these repos is to show how to get from a vague or ugly problem to something operational, maintainable, and actually useful.
 
 ---
 
@@ -31,10 +31,21 @@ I’m usually less interested in the polished “product” than in the stack, w
 
 ### 🚀 Featured Projects
 
+#### [🌍 aura_siting_crafter](https://github.com/GetBack2Basics/aura_siting_crafter)
+The Australian Regional & AI Infrastructure Siting Engine. What started as a personal curiosity to test cloud spatial tools on a local council precinct proposal (Lake Macquarie / Hunter) expanded across NSW and ultimately scaled nationally. Demonstrates how data-driven spatial analysis empowers decision-making.
+- **Focus:** AI-assisted infrastructure siting analysis and spatial decision support at regional and national scale.
+- **Tech:** Python, cloud spatial tools, data-driven analysis.
+- **Status:** Active scaling project · Started 08/2026.
+
 #### [📐 SpatialCourse_Crafter](https://github.com/GetBack2Basics/SpatialCourse_Crafter)
 A structured course-building workspace for creating reusable, HTML-based spatial training content.
 - **Focus:** Packaging spatial workflows and tooling concepts into accessible course material.
 - **Status:** New build · Started 08/2026.
+
+#### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
+A growing reference library of setup guides and operational playbooks covering local LLMs, Wherobots/Sedona, Cloudflare tunnels, self-hosted mail, Firebase Auth, AI-agent tax workflows, Linux/Windows machine tuning, Hermes performance, and git-based wikis.
+- **Focus:** Practical, reusable setup notes and playbooks for the tools and stacks used across this profile.
+- **Status:** Actively expanding reference repo · Started 06/2026.
 
 #### [📖 BibleStudy-Crafter](https://github.com/GetBack2Basics/BibleStudy-Crafter)
 A local-first, Docker-based Bible study generator with an offline corpus and swappable AI backend.
@@ -59,18 +70,13 @@ Technical methodologies and project reports from integrated conservation project
 - **Focus:** Archiving conservation-science methods and AI-assisted wildlife management tooling.
 - **Status:** Historical archive · 1998–2010.
 
-#### [🦬 FunGIS](https://github.com/GetBack2Basics/FunGIS)
-A collection of projects from my tenure as Chair and Executive of the Far North GIS User Group, plus personal work in that region since.
-- **Focus:** Community GIS delivery, presentations, and spatial tooling experiments from the FunGIS network.
-- **Status:** Community archive · Started 07/2026.
-
 #### [🌐 Enigma-and-Eureka-Web-Design](https://github.com/GetBack2Basics/Enigma-and-Eureka-Web-Design)
 Early web design work from establishing the development arm of Sri Lankan ISP Eureka and later running Enigma, serving top firms in Sri Lanka and internationally. Includes "Kotiya", Yahoo pages for Sri Lanka.
 - **Focus:** Archiving foundational web work from hand-coded HTML through Dreamweaver/FrontPage projects.
 - **Status:** Historical archive · Late 1990s–early 2000s.
 
 #### [🐬 Darwin_EckerdCollege](https://github.com/GetBack2Basics/Darwin_EckerdCollege)
-A reference to Project Darwin (1993), a pioneering Machine Learning program that used dolphin dorsal fins for identification, encountered during my Marine Science degree at Eckerd College.
+A reference to Project Darwin (1993), a pioneering Machine Learning program that used dolphin dorsal fins for identification, encountered during Marine Science degree at Eckerd College.
 - **Focus:** Documenting early exposure to applied ML in a biological/ecological context.
 - **Status:** Historical reference · 1993.
 
@@ -79,12 +85,6 @@ Workshop materials for an AI/HPC communities-of-practice session on using LLMs t
 - **Focus:** Teaching LLM-assisted development patterns through a real conservation analysis sprint.
 - **Tech:** Python, QGIS, LiDAR.
 - **Status:** Workshop archive · Late 2024.
-
-#### [🚑 sbtf](https://github.com/GetBack2Basics/sbtf)
-Standby Taskforce — supporting disaster activations using simple front-end spatial tools and volunteers to address critical needs during times of disaster.
-- **Focus:** Rapid-deployment volunteer spatial workflows for humanitarian crisis response.
-- **Status:** Humanitarian volunteer tooling · Started 07/2026.
-
 
 #### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
 Utilizing massive data tools Wherobots and Sedona-based - focused on big data sandboxing public transport planning and workflow experimentation as a personal peeve.
@@ -188,19 +188,14 @@ A content workflow for turning travel photos into social-ready outputs and story
 - **Status:** Social content workflow · Started 06/2026.
 
 #### [🛍️ ozlanka-outdoor-gear](https://github.com/GetBack2Basics/ozlanka-outdoor-gear)
-A project to connect me back to home and help Sri Lankans access Aussie style camping gear at affordable prices and quality. This system collects aussie product details, converts pricing to Rs and helps shape a practical cross-border retail workflow.
+A project to connect back to home and help Sri Lankans access Aussie style camping gear at affordable prices and quality. This system collects aussie product details, converts pricing to Rs and helps shape a practical cross-border retail workflow.
 - **Focus:** Outdoor gear workflow exploration and structured delivery patterns.
 - **Status:** New domain experiment · Started 06/2026.
 
 #### [🃏 304_Card_Game](https://github.com/GetBack2Basics/304_Card_Game)
-My first foray in to Gemini App builder to reconnect to a Sri Lankan card game I played in my teenage years.
+First foray into Gemini App builder to reconnect to a Sri Lankan card game played in teenage years.
 - **Focus:** Applying structured development patterns in a game-oriented domain.
 - **Status:** Side build experiment · Started 12/2025.
-
-#### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
-A growing reference library of setup guides and operational playbooks covering local LLMs, Wherobots/Sedona, Cloudflare tunnels, self-hosted mail, Firebase Auth, AI-agent tax workflows, Linux/Windows machine tuning, Hermes performance, and git-based wikis.
-- **Focus:** Practical, reusable setup notes and playbooks for the tools and stacks used across this profile.
-- **Status:** Actively expanding reference repo · Started 06/2026.
 
 #### [🧪 GIS Sandbox](https://github.com/GetBack2Basics/sandbox)
 A working sandbox of GIS prototypes, including QWC2 configurations and experimental spatial algorithms.
@@ -223,15 +218,30 @@ The configuration repository for this GitHub profile.
 
 ---
 
-### 📈 What I'm working on
-- 🚌 Building out **publictransport-crafter** as a spatial workflow engine for understanding new stacks for big data analysis -where GIS is headed!
+### 📍 Reference & Community Projects
+
+#### [🦬 FunGIS](https://github.com/GetBack2Basics/FunGIS)
+A collection of projects from tenure as Chair and Executive of the Far North GIS User Group, plus personal work in that region since.
+- **Focus:** Community GIS delivery, presentations, and spatial tooling experiments from the FunGIS network.
+- **Status:** Community archive · Started 07/2026.
+
+#### [🚑 sbtf](https://github.com/GetBack2Basics/sbtf)
+Standby Taskforce — supporting disaster activations using simple front-end spatial tools and volunteers to address critical needs during times of disaster.
+- **Focus:** Rapid-deployment volunteer spatial workflows for humanitarian crisis response.
+- **Status:** Humanitarian volunteer tooling · Started 07/2026.
+
+---
+
+### 📈 What's being worked on
+- 🌍 Scaling **aura_siting_crafter** nationally — data-driven spatial decision support for infrastructure siting and regional planning.
+- 🚌 Building out **publictransport-crafter** as a spatial workflow engine for understanding new stacks for big data analysis — where GIS is headed!
 - 🤖 Systemizing AI-assisted build flows in **Agent_Dev_Crafter** so app creation can move from ad hoc prompting to controlled, editable workflows.
 - 🗺️ Advancing modern GIS delivery patterns with **open-source web mapping stacks**.
 - ⚙️ Developing reusable **Python + TypeScript** modules for ETL, spatial analysis, imagery forms, content operations.
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect:
 - **LinkedIn:** www.linkedin.com/in/coreagc
 - **Location:** Newcastle, Australia 🇦🇺
 
