@@ -1,8 +1,8 @@
 # 👋 Hi, I'm George | Senior Spatial Developer, Analyst, Remote Sensing and AI specialist
 
-Turn messy spatial problems into practical, working systems.
+I turn messy spatial problems into practical, working systems.
 
-A geospatial professional with over 2 decades of experience across enterprise GIS, remote sensing, automation, web mapping, and AI-assisted delivery. Most of the work sits where the brief is complex, the data is messy, and the workflow needs to be made usable.
+As a geospatial professional with over 2 decades of experience across enterprise GIS, remote sensing, automation, web mapping, and AI-assisted delivery most of the work I work on sits where the brief is complex, the data is messy, and the workflow needs to be made usable.
 
 Currently focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance interfaces that actually help people get work done.
 
@@ -32,10 +32,11 @@ Usually less interested in the polished "product" than in the stack, workflow, a
 ### 🚀 Featured Projects
 
 #### [🌍 aura_siting_crafter](https://github.com/GetBack2Basics/aura_siting_crafter)
-The Australian Regional & AI Infrastructure Siting Engine. What started as a personal curiosity to test cloud spatial tools on a local council precinct proposal (Lake Macquarie / Hunter) expanded across NSW and ultimately scaled nationally. Demonstrates how data-driven spatial analysis empowers decision-making.
+The Australian Regional & AI Data Center Siting Engine. What started as a personal curiosity to test cloud spatial tools on a local council precinct proposal (Lake Macquarie / Hunter) expanded across NSW and ultimately scaled nationally. Demonstrates how data-driven spatial analysis empowers decision-making.
 - **Focus:** AI-assisted infrastructure siting analysis and spatial decision support at regional and national scale.
 - **Tech:** Python, cloud spatial tools, data-driven analysis.
 - **Status:** Active scaling project · Started 08/2026.
+  **Featured:** on Wherobots Blog and presented at NSW AI Community of Practice along with the FunGIS 2026 conference.
 
 #### [📐 SpatialCourse_Crafter](https://github.com/GetBack2Basics/SpatialCourse_Crafter)
 A structured course-building workspace for creating reusable, HTML-based spatial training content.
@@ -47,6 +48,13 @@ A growing reference library of setup guides and operational playbooks covering l
 - **Focus:** Practical, reusable setup notes and playbooks for the tools and stacks used across this profile.
 - **Status:** Actively expanding reference repo · Started 06/2026.
 
+#### JobCrafter AI [Private Repository]
+A premium full-suite professional campaign workspace for senior role applications, interview preparation and LinkedIn optimization.
+- **Focus:** Job description analysis, tailored document generation, capability task workspaces, and STAR interview practice.
+- **Tech:** React 19, TypeScript, Vite, Tailwind CSS, Motion, Gemini via `@google/genai`.
+- **Status:** Private MVP workspace · Started 03/2026.
+- See https://github.com/GetBack2Basics/GetBack2Basics/blob/38bb5e1d67557bf997f5a21f140aac38e31c01e0/JobHuntCrafter.md
+
 #### [📖 BibleStudy-Crafter](https://github.com/GetBack2Basics/BibleStudy-Crafter)
 A local-first, Docker-based Bible study generator with an offline corpus and swappable AI backend.
 - **Focus:** Structured theological study workflows using open-source and local LLM tooling.
@@ -57,52 +65,7 @@ A local-first, Docker-based Bible study generator with an offline corpus and swa
 A FunGIS spatial game using Gaussian blur to create competitive spatial challenges.
 - **Focus:** Applying geospatial rendering techniques in a gamified, shareable context.
 - **Tech:** TypeScript.
-- **Status:** Fun GIS experiment · Started 08/2026.
-
-#### [🐳 hunter_spatial_crafter](https://github.com/GetBack2Basics/hunter_spatial_crafter)
-Wherobots spatial SQL and geospatial notebook workflows focused on the Hunter region.
-- **Focus:** Big-data spatial SQL experimentation using Wherobots and Sedona, applied to local geography.
-- **Tech:** Python, Wherobots, Sedona.
-- **Status:** Active spatial notebook · Started 07/2026.
-
-#### [🐘 SLWCS](https://github.com/GetBack2Basics/SLWCS)
-Technical methodologies and project reports from integrated conservation projects led from 1998–2010 for the Sri Lanka Wildlife Conservation Society (SLWCS), including the UN Award-winning SEHP program, the Google-funded eleID AI program, the patented eleAlert system, and the c2GIS hub.
-- **Focus:** Archiving conservation-science methods and AI-assisted wildlife management tooling.
-- **Status:** Historical archive · 1998–2010.
-
-#### [🌐 Enigma-and-Eureka-Web-Design](https://github.com/GetBack2Basics/Enigma-and-Eureka-Web-Design)
-Early web design work from establishing the development arm of Sri Lankan ISP Eureka and later running Enigma, serving top firms in Sri Lanka and internationally. Includes "Kotiya", Yahoo pages for Sri Lanka.
-- **Focus:** Archiving foundational web work from hand-coded HTML through Dreamweaver/FrontPage projects.
-- **Status:** Historical archive · Late 1990s–early 2000s.
-
-#### [🐬 Darwin_EckerdCollege](https://github.com/GetBack2Basics/Darwin_EckerdCollege)
-A reference to Project Darwin (1993), a pioneering Machine Learning program that used dolphin dorsal fins for identification, encountered during Marine Science degree at Eckerd College.
-- **Focus:** Documenting early exposure to applied ML in a biological/ecological context.
-- **Status:** Historical reference · 1993.
-
-#### [🌍 X_your_code_hacky_hour_SoS_Lidar_QGIS_Analysis](https://github.com/GetBack2Basics/X_your_code_hacky_hour_SoS_Lidar_QGIS_Analysis)
-Workshop materials for an AI/HPC communities-of-practice session on using LLMs to improve coding, applied to a 50-hour sprint for the Save our Species team on Malleefowl nest LiDAR analysis in QGIS.
-- **Focus:** Teaching LLM-assisted development patterns through a real conservation analysis sprint.
-- **Tech:** Python, QGIS, LiDAR.
-- **Status:** Workshop archive · Late 2024.
-
-#### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
-Utilizing massive data tools Wherobots and Sedona-based - focused on big data sandboxing public transport planning and workflow experimentation as a personal peeve.
-- **Focus:** Exploring transport-oriented tooling and automation patterns.
-- **Status:** In testing · Started 04/2026.
-
-#### JobCrafter AI [Private Repository]
-A premium full-suite professional campaign workspace for senior role applications, interview preparation and LinkedIn optimization.
-- **Focus:** Job description analysis, tailored document generation, capability task workspaces, and STAR interview practice.
-- **Tech:** React 19, TypeScript, Vite, Tailwind CSS, Motion, Gemini via `@google/genai`.
-- **Status:** Private MVP workspace · Started 03/2026.
-- See https://github.com/GetBack2Basics/GetBack2Basics/blob/38bb5e1d67557bf997f5a21f140aac38e31c01e0/JobHuntCrafter.md
-
-#### [🤖 Agent_Dev_Crafter](https://github.com/GetBack2Basics/Agent_Dev_Crafter) [Private Repository]
-A systemized app-development workspace for creating AI agent workflows and editable command sequences to build applications from scratch.
-- **Focus:** Turning chat-based build processes into repeatable, operator-controlled development workflows.
-- **Key features:** Inline command editing, custom LLM JSON calls, and human-readable responses for small-step delivery.
-- **Status:** New private build system · Started 06/2026.
+- **Status:** Fun GIS experiment · Started 08/2026. See LinkedIn article on how AI Fakes it till it makes it!
 
 #### [🧭 qgis-mcp](https://github.com/GetBack2Basics/qgis-mcp)
 An MCP bridge for QGIS that extends the upstream project with Hermes and agent-oriented improvements, allowing AI tools to operate desktop GIS workflows directly.
@@ -207,14 +170,35 @@ A tailored cover-letter generator that evolved into the Job Hunt Crafter MVP.
 - **Focus:** Personalized application content and professional narrative support.
 - **Status:** Completed and evolved into later work · Started 03/2025.
 
+#### [🐳 hunter_spatial_crafter](https://github.com/GetBack2Basics/hunter_spatial_crafter)
+Wherobots spatial SQL and geospatial notebook workflows focused on the Hunter region.
+- **Focus:** Big-data spatial SQL experimentation using Wherobots and Sedona, applied to local geography.
+- **Tech:** Python, Wherobots, Sedona.
+- **Status:** Archived and now AURA_Sighting_Crafter · Started 07/2026.
+
+#### [🌍 X_your_code_hacky_hour_SoS_Lidar_QGIS_Analysis](https://github.com/GetBack2Basics/X_your_code_hacky_hour_SoS_Lidar_QGIS_Analysis)
+Workshop materials for an AI/HPC communities-of-practice session on using LLMs to improve coding, applied to a 50-hour sprint for the Save our Species team on Malleefowl nest LiDAR analysis in QGIS.
+- **Focus:** Teaching LLM-assisted development patterns through a real conservation analysis sprint.
+- **Tech:** Python, QGIS, LiDAR.
+- **Status:** Workshop archive · Late 2024.
+
+#### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
+Utilizing massive data tools Wherobots and Sedona-based - focused on big data sandboxing public transport planning and workflow experimentation as a personal peeve.
+- **Focus:** Exploring transport-oriented tooling and automation patterns.
+- **Status:** In testing · Started 04/2026.
+
+#### [🤖 Agent_Dev_Crafter](https://github.com/GetBack2Basics/Agent_Dev_Crafter) [Private Repository]
+A systemized app-development workspace for creating AI agent workflows and editable command sequences to build applications from scratch.
+- **Focus:** Turning chat-based build processes into repeatable, operator-controlled development workflows.
+- **Key features:** Inline command editing, custom LLM JSON calls, and human-readable responses for small-step delivery.
+- **Status:** New private build system · Started 06/2026.
+
 #### [⚙️ g3w-suite-docker](https://github.com/GetBack2Basics/g3w-suite-docker) [Fork]
 A forked Docker deployment repository for running G3W Suite.
 - **Focus:** Containerized setup and experimentation around G3W Suite deployments.
 - **Status:** Infrastructure fork · Started 01/2020.
 
-#### [👤 GetBack2Basics](https://github.com/GetBack2Basics/GetBack2Basics)
-The configuration repository for this GitHub profile.
-- **Status:** Personal profile anchor · Started 01/2000.
+
 
 ---
 
@@ -230,6 +214,24 @@ Standby Taskforce — supporting disaster activations using simple front-end spa
 - **Focus:** Rapid-deployment volunteer spatial workflows for humanitarian crisis response.
 - **Status:** Humanitarian volunteer tooling · Started 07/2026.
 
+#### [🐘 SLWCS](https://github.com/GetBack2Basics/SLWCS)
+Technical methodologies and project reports from integrated conservation projects led from 1998–2010 for the Sri Lanka Wildlife Conservation Society (SLWCS), including the UN Award-winning SEHP program, the Google-funded eleID AI program, the patented eleAlert system, and the c2GIS hub.
+- **Focus:** Archiving conservation-science methods and AI-assisted wildlife management tooling.
+- **Status:** Historical archive · 1998–2010.
+
+#### [🌐 Enigma-and-Eureka-Web-Design](https://github.com/GetBack2Basics/Enigma-and-Eureka-Web-Design)
+Early web design work from establishing the development arm of Sri Lankan ISP Eureka and later running Enigma, serving top firms in Sri Lanka and internationally. Includes "Kotiya", Yahoo pages for Sri Lanka.
+- **Focus:** Archiving foundational web work from hand-coded HTML through Dreamweaver/FrontPage projects.
+- **Status:** Historical archive · Late 1990s–early 2000s.
+
+#### [🐬 Darwin_EckerdCollege](https://github.com/GetBack2Basics/Darwin_EckerdCollege)
+A reference to Project Darwin (1993), a pioneering Machine Learning program that used dolphin dorsal fins for identification, encountered during Marine Science degree at Eckerd College.
+- **Focus:** Documenting early exposure to applied ML in a biological/ecological context.
+- **Status:** Historical reference · 1993.
+
+#### [👤 GetBack2Basics](https://github.com/GetBack2Basics/GetBack2Basics)
+The configuration repository for this GitHub profile.
+- **Status:** Personal profile anchor · Started 01/2000.
 ---
 
 ### 📈 What's being worked on
