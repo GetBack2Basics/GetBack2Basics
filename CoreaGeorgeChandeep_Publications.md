@@ -11,7 +11,7 @@ _This is a best-effort public record compiled from publisher catalogues, confere
 | Year | Item |
 | :--- | :--- |
 | **2026** | **[Learning Wherobots by Building a National AI Data Center Suitability Report](https://wherobots.com/blog/ai-data-center-site-suitability-wherobots/)** — Invited technical blog article on the Wherobots platform. Published 27 August 2026. |
-| — | **Position Magazine** — National Publication on Resilient Communication Project (https://tinyurl.com/position-mag-pg28 see page 28-30)|
+| **2014** | **Position Magazine** — National Publication on Resilient Communication Project (https://tinyurl.com/position-mag-pg28 see page 28-30)|
 | **2013** | **GITA ANZ Conference / ANZDMC 2013** — _Resilient Communications for the Tablelands_ presented at both conferences; received the Spatial Excellence Award from GITA ANZ. See [Awards file](CoreaGeorgeChandeep_Awards.md) for award detail. |
 | **2007** | **[Saving Elephants by Helping People: Lahugala Final Report, Phases I & II](https://elephantconservation.org/wp-content/uploads/2022/10/Ravi-LAHUGALA-Project-Final-Report-Feb-2007.pdf)** — Major programme report for the UN Award-winning SEHP project. |
 | **2004** | **[Elephant Walk Thru (Ivey Publishing)](https://store.hbr.org/product/elephant-walk-thru/904M52)** — Field case study and teaching note published through Harvard Business Publishing / Ivey Publishing examining the SLWCS community-conservation model. |
