@@ -60,7 +60,6 @@ Selected major recognition, ordered by significance:
   - Regional configuration override system (national, Hunter, Gladstone precincts).
   - Multi-criteria constraint processing: riparian buffers (30m), pipeline safety (20m), rail safety (10m), slope (>12%), TSF dam risk, biodiversity corridors, energy infrastructure proximity.
   - Net developable zone calculation via spatial difference operations (ST_Difference, ST_Buffer, ST_Union_Aggr).
-  - Target CRS transforms (EPSG:7844 MGA2020 Zone 56 for NSW, EPSG:3112 for metric analysis).
   - Havasu Iceberg table persistence in Wherobots cloud; fallback to GeoParquet for local execution.
   - Interactive Jupyter notebooks for exploratory analysis and suitability dashboards.
 - **Status:** Active scaling & presentation — featured in Wherobots Blog (27 Aug 2026) and NSW AI Community of Practice, FunGIS 2026 conference.
