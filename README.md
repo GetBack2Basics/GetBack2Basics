@@ -24,6 +24,7 @@ Usually less interested in the polished "product" than in the stack, workflow, a
 | **Frontend & UI** | React 19, Vite, Tailwind CSS, Motion, interactive dashboard design |
 | **Geospatial Ecosystem** | ArcGIS Pro/Enterprise, QGIS, FME, SDE, GeoServer, Precisely Spectrum, MapInfo |
 | **Web Mapping** | Mapbox GL JS, Leaflet, OpenLayers, QWC2, Sedona |
+| **Big Data & Spatial SQL** | Apache Sedona, Wherobots, Apache Iceberg, Havasu, Spark SQL |
 | **Infrastructure & DevOps** | Docker, Git/GitHub Actions, REST APIs, AWS, Oracle |
 | **AI & Data** | Gemini, OpenRouter, Nous, Hermes, Claude, spatial statistics, raster/image processing |
 
@@ -47,21 +48,66 @@ Selected major recognition, ordered by significance:
 ### 🚀 Featured Projects
 
 #### [🌍 aura_siting_crafter](https://github.com/GetBack2Basics/aura_siting_crafter)
-The Australian Regional & AI Data Center Siting Engine. What started as a personal curiosity to test cloud spatial tools on a local council precinct proposal (Lake Macquarie / Hunter) expanded across NSW and ultimately scaled nationally. Demonstrates how data-driven spatial analysis empowers decision-making.
-- **Focus:** AI-assisted infrastructure siting analysis and spatial decision support at regional and national scale.
-- **Tech:** Python, cloud spatial tools, data-driven analysis.
-- **Status:** Active scaling project · Started 08/2026.
-  **Featured:** on Wherobots Blog and presented at NSW AI Community of Practice along with the FunGIS 2026 conference.
-
-#### [📐 SpatialCourse_Crafter](https://github.com/GetBack2Basics/SpatialCourse_Crafter)
-A structured course-building workspace for creating reusable, HTML-based spatial training content.
-- **Focus:** Packaging spatial workflows and tooling concepts into accessible course material.
-- **Status:** New build · Started 08/2026.
+**Australian Urban & Regional AI (AURA) Data Center Siting Engine** — a cloud-native, spatial data engineering and Multi-Criteria Decision Analysis (MCDA) framework for national and regional infrastructure siting.
+- **Focus:** Large-scale spatial ETL, constraint-based suitability analysis, and data-driven infrastructure planning across NSW and nationally.
+- **Tech Stack:** Python, Apache Sedona, Wherobots (cloud spatial SQL), Apache Iceberg/Havasu, GeoPandas, Spark SQL, REST API ingestion (Geoscape, ABS, NSW spatial portals).
+- **Key Features:**
+  - Federated spatial data ingestion from national (ABS Meshblocks, GA, Geoscape GNAF) and state portals (NSW Water Theme, Transport, Energy, Biodiversity via FeatureServer REST).
+  - Regional configuration override system (national, Hunter, Gladstone precincts).
+  - Multi-criteria constraint processing: riparian buffers (30m), pipeline safety (20m), rail safety (10m), slope (>12%), TSF dam risk, biodiversity corridors, energy infrastructure proximity.
+  - Net developable zone calculation via spatial difference operations (ST_Difference, ST_Buffer, ST_Union_Aggr).
+  - Target CRS transforms (EPSG:7844 MGA2020 Zone 56 for NSW, EPSG:3112 for metric analysis).
+  - Havasu Iceberg table persistence in Wherobots cloud; fallback to GeoParquet for local execution.
+  - Interactive Jupyter notebooks for exploratory analysis and suitability dashboards.
+- **Status:** Active scaling & presentation — featured in Wherobots Blog (27 Aug 2026) and NSW AI Community of Practice, FunGIS 2026 conference.
+- **Started:** 08/2026 (2 months of intensive development).
 
 #### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
 A growing reference library of setup guides and operational playbooks covering local LLMs, Wherobots/Sedona, Cloudflare tunnels, self-hosted mail, Firebase Auth, AI-agent tax workflows, Linux/Windows machine tuning, Hermes performance, and git-based wikis.
 - **Focus:** Practical, reusable setup notes and playbooks for the tools and stacks used across this profile.
 - **Status:** Actively expanding reference repo · Started 06/2026.
+
+#### [🎭 LivePersonaCrafter](https://github.com/GetBack2Basics/LivePersonaCrafter)
+Real-Time AI Persona Evaluation, Spoken Debate & Core Question Synthesis Engine — a live voice-to-persona-response system for debating technical topics with AI personalities.
+- **Focus:** Spoken audio processing, LLM core question extraction, targeted persona response generation, and real-time text-to-speech synthesis.
+- **Tech Stack:** React 18 + Vite + TypeScript, TailwindCSS, Express, Google Gemini API & OpenRouter, Web Audio API.
+- **Key Features:**
+  - 3000 ms silence latency speech buffering with 16-band frequency visualization.
+  - JSON schema-enforced core question extraction from raw transcripts.
+  - Multi-model provider abstraction (Gemini direct, OpenRouter 15+ models with transparent pricing tiers).
+  - Automatic fallback retry on HTTP 429 / upstream errors.
+  - Token-to-speech-duration calibration (45s target ≈ 75+ technical words).
+  - Local-first persistence (localStorage) + session export/import.
+  - Full automated test suite (26 test groups: API key validation, model mapping, transcript parsing, token math, alignment scoring, system prompts, security).
+- **Status:** MVP complete with passing full test suite.
+- **Started:** 09/2026 (latest).
+
+#### [📐 FunGIS_SpatialOlympics26_MapInABox](https://github.com/GetBack2Basics/FunGIS_SpatialOlympics26_MapInABox)
+SpatialOlympics3 Team Photo EXIF Audit Pipeline — a self-contained, repeatable pipeline for competition photo metadata extraction and interactive audit reporting.
+- **Focus:** EXIF extraction (JPEG/HEIC with GPS, camera metadata, SHA-256 content hash), team submission compliance, and geospatial visualization.
+- **Tech Stack:** Python (Pillow, pillow-heif for HEIC/HEIF), Leaflet (local vendor), AlaSQL (in-browser SQL queries), HTML template injection pattern.
+- **Key Features:**
+  - Per-team EXIF CSV extraction + combined `all_teams_exif.csv`.
+  - Interactive HTML report: Leaflet map (team-colored markers, numbered capture order, photo + metadata popups), capture-order time-slider with ▶ Play.
+  - Team Submission Scorecard: geotag coverage %, timestamp coverage %, camera consistency, duplicate-file detection, compliance callouts.
+  - SQL Explorer tab (in-browser AlaSQL queries with autocomplete, draggable command palette, result export as CSV, query-to-map plotting).
+  - "Ask AI" box generates copy-paste prompts for LLM SQL synthesis.
+  - Vendored dependencies (Leaflet, AlaSQL, local fonts) = zero third-party load-time requests; map tiles only (OSM/CARTO/ArcGIS/QLD).
+  - Repeatable: `python extract_exif.py && python build_exif_report.py` after new submissions.
+- **Status:** Active for FunGIS Spatial Olympics 2026 event.
+- **Started:** 08/2026.
+
+#### [🎯 SplatOlympics](https://github.com/GetBack2Basics/SplatOlympics)
+A FunGIS spatial game using Gaussian blur rendering to create competitive spatial challenges — demonstrating geospatial rendering techniques in a gamified, shareable context.
+- **Focus:** Applying GIS techniques (Gaussian blur, raster rendering) to game mechanics.
+- **Tech:** TypeScript.
+- **Status:** FunGIS Spatial Olympics experiment.
+- **Started:** 08/2026.
+
+#### [📐 SpatialCourse_Crafter](https://github.com/GetBack2Basics/SpatialCourse_Crafter)
+A structured course-building workspace for creating reusable, HTML-based spatial training content.
+- **Focus:** Packaging spatial workflows and tooling concepts into accessible course material.
+- **Status:** New build · Started 08/2026.
 
 #### JobCrafter AI [Private Repository]
 A premium full-suite professional campaign workspace for senior role applications, interview preparation and LinkedIn optimization.
@@ -76,23 +122,25 @@ A local-first, Docker-based Bible study generator with an offline corpus and swa
 - **Tech:** Python, Docker, offline corpus, swappable AI.
 - **Status:** New local-first build · Started 08/2026.
 
-#### [🎯 SplatOlympics](https://github.com/GetBack2Basics/SplatOlympics)
-A FunGIS spatial game using Gaussian blur to create competitive spatial challenges.
-- **Focus:** Applying geospatial rendering techniques in a gamified, shareable context.
-- **Tech:** TypeScript.
-- **Status:** FunGIS experiment for Spatial Olympics· Started 08/2026. See LinkedIn article on how AI Fakes it till it makes it!
+#### [🧾 MapReportCrafter](https://github.com/GetBack2Basics/MapReportCrafter)
+A mapping and report-delivery project focused on producing polished outputs for review and presentation.
+- **Focus:** Customized map production and report-ready deliverables.
+- **Status:** Deliverable-generation workspace · Started 02/2026.
 
-#### [🧭 qgis-mcp](https://github.com/GetBack2Basics/qgis-mcp)
-An MCP bridge for QGIS that extends the upstream project with Hermes and agent-oriented improvements, allowing AI tools to operate desktop GIS workflows directly.
-- **Focus:** QGIS automation through MCP, plugin/server coordination, and coding-agent integration.
-- **Key features:** 102 tools for layers, features, styling, layouts, atlas, SQL, processing, and system operations.
-- **Status:** Active fork and integration layer · Started 06/2026.
+#### [🧾 Spatial_Report_Crafter](https://github.com/GetBack2Basics/Spatial_Report_Crafter)
+A report-generation workflow for turning spatial data into HTML and CSV outputs that clients can review without a web server or separate app.
+- **Focus:** Portable client review and feedback workflows for spatial deliverables.
+- **Status:** Lightweight reporting workflow · Started 06/2026.
 
-#### [🛰️ QGIS_Remote_Sensing_Workflow](https://github.com/GetBack2Basics/QGIS_Remote_Sensing_Workflow)
-A QGIS-based remote sensing operations workspace built to replace fragmented RS processes spread across ERDAS, Arc, Google Earth, and spreadsheets.
-- **Focus:** End-to-end remote sensing project delivery inside QGIS.
-- **Key features:** Multi-phase plugin tooling for project setup, progress tracking, rollback, image analysis, quick draw, AI-assisted coding, and QC reporting.
-- **Status:** Workflow modernization platform · Started 05/2024.
+#### [🧾 Spatial_Document-Crafter](https://github.com/GetBack2Basics/Spatial_Document-Crafter)
+A spatial document-generation workspace focused on building deliverables and structured outputs around geospatial content.
+- **Focus:** Turning spatial inputs into clearer, reusable document workflows.
+- **Status:** Document workflow workspace · Started 06/2026.
+
+#### [🗂️ Geo_Metadata_Discovery_Reprojector](https://github.com/GetBack2Basics/Geo_Metadata_Discovery_Reprojector)
+A pyqgis / gdal workflow for discovering flat-file spatial metadata, identifying duplicates and archive candidates, and supporting reprojection programs such as GDA94 to GDA2020.
+- **Focus:** File-based metadata discovery, cleanup planning, and reprojection preparation.
+- **Status:** Long-running foundation workflow · Started 01/2018.
 
 #### [🏢 Enterprise_Geo_Metadata_Discovery_Reprojector](https://github.com/GetBack2Basics/Enterprise_Geo_Metadata_Discovery_Reprojector)
 An ArcPy and SQL-based enterprise migration workflow for discovering spatial metadata, auditing SDE complexity, and planning large-scale reprojection programs.
@@ -100,21 +148,11 @@ An ArcPy and SQL-based enterprise migration workflow for discovering spatial met
 - **Key features:** Reviews versioning, archiving, metadata, attachments, relationships, subtypes, coordinate columns, schemas, and projections with reporting support.
 - **Status:** Enterprise migration workflow · Started 07/2026.
 
-#### [🖼️ PixelCraft](https://github.com/GetBack2Basics/PixelCraft)
-A high-performance Python toolkit for raster processing and image manipulation in GIS workflows.
-- **Focus:** Spatial imagery analysis, automated cleaning, and production-ready raster preparation.
-- **Key features:** Coordinate-aware cropping, multi-spectral analysis, and conversion of raw imagery into usable GIS layers.
-- **Status:** Raster-processing toolkit · Started 07/2025.
-
-#### [🗂️ Geo_Metadata_Discovery_Reprojector](https://github.com/GetBack2Basics/Geo_Metadata_Discovery_Reprojector)
-A pyqgis / gdal workflow for discovering flat-file spatial metadata, identifying duplicates and archive candidates, and supporting reprojection programs such as GDA94 to GDA2020.
-- **Focus:** File-based metadata discovery, cleanup planning, and reprojection preparation.
-- **Status:** Long-running foundation workflow · Started 01/2018.
-
-#### [📄 Spatial_Report_Crafter](https://github.com/GetBack2Basics/Spatial_Report_Crafter)
-A report-generation workflow for turning spatial data into HTML and CSV outputs that clients can review without a web server or separate app.
-- **Focus:** Portable client review and feedback workflows for spatial deliverables.
-- **Status:** Lightweight reporting workflow · Started 06/2026.
+#### [🛰️ QGIS_Remote_Sensing_Workflow](https://github.com/GetBack2Basics/QGIS_Remote_Sensing_Workflow)
+A QGIS-based remote sensing operations workspace built to replace fragmented RS processes spread across ERDAS, Arc, Google Earth, and spreadsheets.
+- **Focus:** End-to-end remote sensing project delivery inside QGIS.
+- **Key features:** Multi-phase plugin tooling for project setup, progress tracking, rollback, image analysis, quick draw, AI-assisted coding, and QC reporting.
+- **Status:** Workflow modernization platform · Started 05/2024.
 
 #### [🌐 QGIS_PortalCrafter](https://github.com/GetBack2Basics/QGIS_PortalCrafter)
 A QGIS 4.x plugin for Conservation Planning & Offsets portal staging that validates configured inputs and registers portal-ready layers from local spatial sources.
@@ -128,6 +166,18 @@ An AI-guided spatial comparison workflow that uses QGIS MCP via Hermes to reconc
 - **Connected workflow:** Produces outputs designed to pair with Spatial_Report_Crafter.
 - **Status:** AI-assisted comparison workflow · Started 06/2026.
 
+#### [🧭 qgis-mcp](https://github.com/GetBack2Basics/qgis-mcp)
+An MCP bridge for QGIS that extends the upstream project with Hermes and agent-oriented improvements, allowing AI tools to operate desktop GIS workflows directly.
+- **Focus:** QGIS automation through MCP, plugin/server coordination, and coding-agent integration.
+- **Key features:** 102 tools for layers, features, styling, layouts, atlas, SQL, processing, and system operations.
+- **Status:** Active fork and integration layer · Started 06/2026.
+
+#### [🖼️ PixelCraft](https://github.com/GetBack2Basics/PixelCraft)
+A high-performance Python toolkit for raster processing and image manipulation in GIS workflows.
+- **Focus:** Spatial imagery analysis, automated cleaning, and production-ready raster preparation.
+- **Key features:** Coordinate-aware cropping, multi-spectral analysis, and conversion of raw imagery into usable GIS layers.
+- **Status:** Raster-processing toolkit · Started 07/2025.
+
 #### [🗺️ craft_layout](https://github.com/GetBack2Basics/craft_layout)
 An ArcGIS Pro automation tool that determines the best-fit layout orientation and scale for each feature in a map series.
 - **Focus:** Cartographic optimization and batch export automation.
@@ -139,16 +189,6 @@ An AI-assisted itinerary planner for Tasmania and beyond that combines discovery
 - **Focus:** Travel planning with interactive maps and imported trip context.
 - **Tech:** JavaScript, Python, Flask, and Mapbox.
 - **Status:** Consumer-facing planning experiment · Started 04/2025.
-
-#### [🧾 MapReportCrafter](https://github.com/GetBack2Basics/MapReportCrafter)
-A mapping and report-delivery project focused on producing polished outputs for review and presentation.
-- **Focus:** Customized map production and report-ready deliverables.
-- **Status:** Deliverable-generation workspace · Started 02/2026.
-
-#### [🧾 Spatial_Document-Crafter](https://github.com/GetBack2Basics/Spatial_Document-Crafter)
-A spatial document-generation workspace focused on building deliverables and structured outputs around geospatial content.
-- **Focus:** Turning spatial inputs into clearer, reusable document workflows.
-- **Status:** Document workflow workspace · Started 06/2026.
 
 #### [🖼️ imagery_form_crafter](https://github.com/GetBack2Basics/imagery_form_crafter)
 A TypeScript workflow project for building structured imagery-related forms and request interfaces.
@@ -184,18 +224,6 @@ A working sandbox of GIS prototypes, including QWC2 configurations and experimen
 A tailored cover-letter generator that evolved into the Job Hunt Crafter MVP.
 - **Focus:** Personalized application content and professional narrative support.
 - **Status:** Completed and evolved into later work · Started 03/2025.
-
-#### [🐳 hunter_spatial_crafter](https://github.com/GetBack2Basics/hunter_spatial_crafter)
-Wherobots spatial SQL and geospatial notebook workflows focused on the Hunter region.
-- **Focus:** Big-data spatial SQL experimentation using Wherobots and Sedona, applied to local geography.
-- **Tech:** Python, Wherobots, Sedona.
-- **Status:** Archived and now AURA_Sighting_Crafter · Started 07/2026.
-
-#### [🌍 X_your_code_hacky_hour_SoS_Lidar_QGIS_Analysis](https://github.com/GetBack2Basics/X_your_code_hacky_hour_SoS_Lidar_QGIS_Analysis)
-Workshop materials for an AI/HPC communities-of-practice session on using LLMs to improve coding, applied to a 50-hour sprint for the Save our Species team on Malleefowl nest LiDAR analysis in QGIS.
-- **Focus:** Teaching LLM-assisted development patterns through a real conservation analysis sprint.
-- **Tech:** Python, QGIS, LiDAR.
-- **Status:** Workshop archive · Late 2024.
 
 #### [🚌 publictransport-crafter](https://github.com/GetBack2Basics/publictransport-crafter)
 Utilizing massive data tools Wherobots and Sedona-based - focused on big data sandboxing public transport planning and workflow experimentation as a personal peeve.
@@ -247,10 +275,12 @@ A reference to Project Darwin (1993), a pioneering Machine Learning program that
 #### [👤 GetBack2Basics](https://github.com/GetBack2Basics/GetBack2Basics)
 The configuration repository for this GitHub profile.
 - **Status:** Personal profile anchor · Started 01/2000.
+
 ---
 
 ### 📈 What's being worked on
-- 🌍 Scaling **aura_siting_crafter** nationally — data-driven spatial decision support for infrastructure siting and regional planning.
+- 🌍 Scaling **aura_siting_crafter** nationally — data-driven spatial decision support for infrastructure siting and regional planning at scale.
+- 🎭 Productizing **LivePersonaCrafter** for technical debate and persona-based AI training.
 - 🚌 Building out **publictransport-crafter** as a spatial workflow engine for understanding new stacks for big data analysis — where GIS is headed!
 - 🤖 Systemizing AI-assisted build flows in **Agent_Dev_Crafter** so app creation can move from ad hoc prompting to controlled, editable workflows.
 - 🗺️ Advancing modern GIS delivery patterns with **open-source web mapping stacks**.
