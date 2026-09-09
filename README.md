@@ -20,13 +20,17 @@ Usually less interested in the polished "product" than in the stack, workflow, a
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (ArcPy, PyQGIS, GeoPandas), TypeScript/JavaScript (React, Node.js), SQL (PostgreSQL/PostGIS) |
-| **Frontend & UI** | React 19, Vite, Tailwind CSS, Motion, interactive dashboard design |
+| **Languages** | Python (ArcPy, PyQGIS, GeoPandas, Spark SQL), TypeScript/JavaScript (React, Node.js), SQL (PostgreSQL/PostGIS) |
+| **Frontend & UI** | React 19, Vite, Tailwind CSS, Motion, interactive dashboard design, Jupyter notebooks |
 | **Geospatial Ecosystem** | ArcGIS Pro/Enterprise, QGIS, FME, SDE, GeoServer, Precisely Spectrum, MapInfo |
-| **Web Mapping** | Mapbox GL JS, Leaflet, OpenLayers, QWC2, Sedona |
-| **Big Data & Spatial SQL** | Apache Sedona, Wherobots, Apache Iceberg, Havasu, Spark SQL |
-| **Infrastructure & DevOps** | Docker, Git/GitHub Actions, REST APIs, AWS, Oracle |
-| **AI & Data** | Gemini, OpenRouter, Nous, Hermes, Claude, spatial statistics, raster/image processing |
+| **Web Mapping** | Mapbox GL JS, Leaflet, OpenLayers, QWC2 |
+| **Cloud Spatial SQL** | Apache Sedona (Spark-based), Wherobots (cloud execution), Apache Iceberg/Havasu (versioned tables), GeoParquet (fallback format) |
+| **Big Data & ETL** | Apache Spark, Spark SQL, federated REST API ingestion, FeatureServer pagination, spatial constraint processing, CRS transformation (EPSG conversions) |
+| **Spatial Operations** | ST_Difference, ST_Buffer, ST_Union_Aggr, ST_Intersects, riparian/pipeline/rail buffers, multi-criteria decision analysis (MCDA), net developable zone calculation |
+| **Data Formats & Interchange** | GeoJSON, GeoParquet, WKT (Well-Known Text), coordinate validation, geometry cleaning |
+| **Configuration & Orchestration** | JSON config-driven execution, environment-based region overrides, incremental compute architecture |
+| **Infrastructure & DevOps** | Docker, Git/GitHub Actions, REST APIs, AWS, Oracle, cloud storage (wherobots://, file://) |
+| **AI & Data** | Gemini, OpenRouter, Nous, Hermes, Claude, spatial statistics, raster/image processing, LLM-assisted development |
 
 ---
 
