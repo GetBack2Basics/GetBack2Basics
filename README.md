@@ -6,9 +6,9 @@ As a geospatial professional with over 2 decades of experience across enterprise
 
 Currently focused on modernizing GIS workflows through AI integration, reusable tooling, and high-performance interfaces that actually help people get work done.
 
-Most of the projects here exist for one of two reasons: to learn a stack properly by using it on something real, or to solve an actual problem in professional and volunteer work. Tend to learn by building, and keep the output practical, repeatable, and as data-agnostic as possible.
+Most of the projects here exist for one of two reasons: to learn a stack properly by using it on something real, or to solve an actual problem in professional and volunteer work. I tend to learn by building, and keep the output practical, repeatable, and as data/software-agnostic as possible.
 
-Code that relates to workplace delivery uses only generic, freely available data and connections. A lot of what has been built in recent years is deliberately data-agnostic so the methods, patterns, and automation can be reused elsewhere.
+Code that relates to workplace delivery uses only generic, freely available data and connections. A lot of what has been built in recent years is deliberately set to use a parameters file so the methods, patterns, and automation can be reused elsewhere.
 
 ## TO PUT IT BLUNTLY
 
@@ -62,8 +62,9 @@ Selected major recognition, ordered by significance:
   - Net developable zone calculation via spatial difference operations (ST_Difference, ST_Buffer, ST_Union_Aggr).
   - Havasu Iceberg table persistence in Wherobots cloud; fallback to GeoParquet for local execution.
   - Interactive Jupyter notebooks for exploratory analysis and suitability dashboards.
-- **Status:** Active scaling & presentation — featured in Wherobots Blog (27 Aug 2026) and NSW AI Community of Practice, FunGIS 2026 conference.
+- **Status:** Active scaling & presentation — featured in Wherobots Blog (27 Aug 2026) and NSW AI Community of Practice, FunGIS 2026 conference, Data Champions Network and Australian Emergency Management conferences.
 - **Started:** 08/2026 (2 months of intensive development).
+- **Used as base** for 1 commercial and three other projects.
 
 #### [📚 CheatSheets](https://github.com/GetBack2Basics/CheatSheets)
 A growing reference library of setup guides and operational playbooks covering local LLMs, Wherobots/Sedona, Cloudflare tunnels, self-hosted mail, Firebase Auth, AI-agent tax workflows, Linux/Windows machine tuning, Hermes performance, and git-based wikis.
